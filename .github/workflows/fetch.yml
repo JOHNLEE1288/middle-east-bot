@@ -1,0 +1,26 @@
+name: Fetch Saudi News
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 每天北京时间早上6点自动跑
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install requests feedparser beautifulsoup4
+      - run: python fetch_news.py
+      - name: Commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news.json
+          git commit -m "Update Saudi News" || exit 0
+          git push
