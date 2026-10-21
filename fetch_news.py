@@ -4,49 +4,47 @@ from bs4 import BeautifulSoup
 
 def clean_text(s): return BeautifulSoup(s or "", "html.parser").get_text(" ", strip=True)
 
+# 👇 新增阿拉伯语源，并打上语言标记
 FEEDS = [
-    "https://www.arabnews.com/rss.xml",          # 沙特
-    "https://www.spa.gov.sa/rss.php",            # 沙特
-    "https://www.zawya.com/en/rss",              # 中东商业
-    "https://www.argaam.com/en/rss",             # 沙特财经
-    "https://gulfnews.com/rss/saudi",            # 沙特(海湾新闻)
-    "https://aawsat.com/english/rss",            # 中东报
-    "https://saudigazette.com.sa/rss",           # 沙特公报
-    "https://gulfnews.com/rss/uae",              # 阿联酋(海湾新闻)
-    "https://www.aljazeera.com/xml/rss/all.xml"  # 半岛电视台(泛中东)
-]
-
-# 增加中东国家和商业关键词，保留更多有用信息
-KEYWORDS = [
-    "saudi", "riyadh", "jeddah", "syria", "damascus", "uae", "dubai", "qatar", "doha",
-    "egypt", "cairo", "iraq", "baghdad", "jordan", "amman", "kuwait", "oman", "bahrain",
-    "business", "invest", "economy", "trade", "project", "construction", "energy", "contract"
+    {"url": "https://www.arabnews.com/rss.xml", "lang": "en"},               # 沙特英文
+    {"url": "https://www.spa.gov.sa/rss.php", "lang": "en"},                 # 沙特英文
+    {"url": "https://www.zawya.com/en/rss", "lang": "en"},                   # 中东英文
+    {"url": "https://www.argaam.com/en/rss", "lang": "en"},                  # 沙特英文
+    {"url": "https://gulfnews.com/rss/saudi", "lang": "en"},                 # 沙特英文
+    {"url": "https://aawsat.com/english/rss", "lang": "en"},                 # 中东英文
+    {"url": "https://saudigazette.com.sa/rss", "lang": "en"},                # 沙特英文
+    {"url": "https://gulfnews.com/rss/uae", "lang": "en"},                   # 阿联酋英文
+    {"url": "https://www.aljazeera.com/xml/rss/all.xml", "lang": "en"},      # 泛中东英文
+    
+    # 👇 以下是阿拉伯语源
+    {"url": "https://www.alriyadh.com/rss", "lang": "ar"},                   # 利雅得报 (沙特最大阿语)
+    {"url": "https://www.okaz.com.sa/rss", "lang": "ar"},                    # 欧卡兹报 (沙特阿语)
+    {"url": "https://www.zawya.com/ar/rss", "lang": "ar"}                    # 中东阿语财经
 ]
 
 news_list = []
-for url in FEEDS:
+for feed_info in FEEDS:
+    url = feed_info["url"]
+    lang = feed_info["lang"]
     try:
         resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
         feed = feedparser.parse(resp.content)
-        for e in feed.entries[:25]:
+        for e in feed.entries[:20]:
             title = clean_text(e.get("title", ""))
             link = e.get("link", "")
             if not title or len(title) < 5: continue
-            
-            title_lower = title.lower()
-            # 只要标题里有中东国家或商业词，就保留
-            if not any(k in title_lower for k in KEYWORDS):
-                continue 
                 
             news_list.append({
                 "title": title,
                 "summary": clean_text(e.get("summary", ""))[:600],
                 "url": link,
-                "date": datetime.now(timezone.utc).strftime("%Y-%m-%d")
+                "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                "lang": lang # 👈 记录语种，传给腾讯云
             })
     except Exception as ex:
         print(f"Error {url}: {ex}")
 
+# 去重
 seen = set()
 final_news = []
 for n in news_list:
