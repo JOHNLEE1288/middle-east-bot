@@ -1,30 +1,702 @@
 [
   {
-    "title": "Saudi, UAE diplomats review Sudan efforts at Geneva talks",
-    "summary": "GENEVA: Saudi Deputy Minister of Foreign Affairs Waleed Elkhereiji met with Sheikh Shakhboot bin Nahyan Al-Nahyan, UAE minister of state, on the sidelines of the Sixth Consultative Meeting on Enhancing Coordination of Peace Initiatives and Efforts in Sudan, in Geneva on Wednesday. During the meeting, they reviewed bilateral relations and discussed the latest developments in Sudan and ongoing efforts to address the situation, as well as regional and international developments. The meeting was att",
-    "url": "https://www.arabnews.com/saudi-arabia/saudi-uae-diplomats-review-sudan-efforts-at-geneva-talks-3007711",
+    "title": "Saudi-Chinese consortium wins $306m Qiddiya stadium contract - Arab News",
+    "summary": "Saudi-Chinese consortium wins $306m Qiddiya stadium contract Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHBrNW8wYlllQjBHcnlTTG96NFp2S0xXSi1tMTdsSWhSSFRvZ3lIbWNzWDlxTkE2Rl9zOWwtNXh0WFJQRmMwS0RUd0pfenRQbEY3d2hGNmc5NmwySWNDMnFKeXhwMVFFUG1uVElIYzlpYVd3VndfTnBySVF5LVdZNE1JMXNCbnQzNWpFaVN0Nk9pVTBCVWJhQVVwSkpYMVliUV9j?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "FII Institute postpones 10th annual conference to 2027 - Arab News",
+    "summary": "FII Institute postpones 10th annual conference to 2027 Arab News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWhoUDVVMnpYYkVITm9xUkVlelZWbmI3c0JnLWdDMlBBY0RUeEhkQXNZajlnTU9MV19uQ09BNnpjbVVPa0h3Z0xIelVNSnNleWo4TTJodThtbFJCV25fVVpET3Jlc0lUOE9TR1dBWWh3V1VJS0RsVHVFVHFtcmh0VDdnaFgyYVhTLXRpT1hIM1Vyb1h5OThEbW5VcUg?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Iran’s Guards threaten US bases in retaliation for Hormuz escorts - Arab News",
+    "summary": "Iran’s Guards threaten US bases in retaliation for Hormuz escorts Arab News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWS13bjluT1hxRnpxV29LSjRJWmgteXkwR2lxQnlsb1pYYU4wMDVneFRNdjlJTkk0dndLS3hnS2Mwc3FzbklEeTFERWl5eXhMTVpmYkVuUWIxT0RCdlBRWDlIY3F1M3NMTG9PTDZxVHVfcDhJaTF3bVpnZFhrUWFlUURUQmIyTlhyejZVOVozUllPTC0yQ21mdm8wVHZPR1N0clFiWlpMLWFtQ0E5cWc?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "UN chief condemns Houthi attacks on Saudi Arabia, warns an ‘El Nino of war’ is hitting world’s poor - Arab News",
+    "summary": "UN chief condemns Houthi attacks on Saudi Arabia, warns an ‘El Nino of war’ is hitting world’s poor Arab News",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVVBc0ozUnpXcUtkZ2lZMTFhdWY0bUQ5VUFMZTVUXzh6c2dkcTFBQTVWeGxGaFVxV0pYN2RhSG9iV1BCZ09Gd1gtc2VsRWRzNS1CNjhZTDJ4TzRCSm9PRTdnTmVFWURSSVc5WW1ySWdHMnQxZk5HNUp3VEhacmhqTTRwd0xzVHY5ZTR2c3B0c0JtN2FWWmJqRHpFc182X24tSkgyQzVmaVVONUIyUDh6QS1NN3V3bFRnQmg5WTY2cFhyekt5d2pFTHJTbTNFdk5iZWhHMC1tQQ?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Coalition says intercepted six drones in Madinah, Eastern and southern regions - Arab News",
+    "summary": "Coalition says intercepted six drones in Madinah, Eastern and southern regions Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGhhVGJEc3AzNmpCcVEzNTlnNDBua3pHOEZsSk5Wb0tobGlRZFlwNmxOWnhrMzM2ZXppY21saFl3U0s2cEJKeUpObnNkMWY0ZTZoS3Y0NkpGWV91M1R5c3ZiQU1DcW5pQW03b0JXbFhza3ppQTh6NGpUMjFVNEt4QzEzemFmMWZhQ1FCVDByQm1wTWo5R1h5cEo4eU5XVkg4blBJSFhhYUwtQQ?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Israel’s election may change its leader, but not Iran war policy - Arab News",
+    "summary": "Israel’s election may change its leader, but not Iran war policy Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbThZWUlMWWNzV0dQQkxmbHp3NFdoUzRXdFI3MDhTMUgyVk93ek9PZGpqcWJKWHBMOTI2cUpGODRWMVVxOW5wSGFMRXRwS2h0dE50XzZDLUdWQ3lzU3hJeWpDN19jWkR2SnFsWklrMGRIODJpQUIzLWFvdHVoMTJ0WTBnTE8wZmw4NFFaSEZJZGJ1alJybFRxWTE5Yy1vSWRBR3h2QjZTcGN1MWs?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi crown prince receives written message for King Salman from Egyptian president - Arab News",
+    "summary": "Saudi crown prince receives written message for King Salman from Egyptian president Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDNDVVh3RDZLN1o1T3d6eEhyZXV3NXFUcnZveEx0REE5bEp0VFkxVmZvUG4ta3YwdzBVT2VFRjhkT3g2bmhVdm1LRGRxSEtqNXRQMkNsaEx3M1FIbmV4dmpWTFRyNVNwSlNpbWp0ckkyNHpmN3FhaFRpUU5SM0FRRkl5VE40cW5SX1l2Ym84QnZPOWpndENZZWFLcG9LMUlTYk1tQ3hUT1lrRGgtdHh6Ull1OTZZM3BYazd1bWJHNTJ5QTFIS09MUQ?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Trump says Iran is trying to drive up oil prices before the midterm elections - Arab News",
+    "summary": "Trump says Iran is trying to drive up oil prices before the midterm elections Arab News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2FZaWV6ckpxSks3a1hFWV84OU5TcGxCRzBEckFrVVhXbWk3SVhPbm03Z2NIcjlEMHpFZUpIT3hxNHZEUk5oX0ZfVDRrUjc1TFI3UThQWUJGQjNkQW1yWnNiRzZOVG9uaVBSYWQ4eWRoVzhkZm5lNmdMaFI1ZVNua2s1Q1Q4SnNqdEdjUEMwR2sxLUcyRkltbXFpS0NhWlBDc3hpUGlZZFdwRVB3bGt1cUYxUVZkYnNnaTZhTXlMQQ?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Dammam’s King Fahd airport resumes operations after attack kills 2 - Arab News",
+    "summary": "Dammam’s King Fahd airport resumes operations after attack kills 2 Arab News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVdYbEh1SGgzcUhvTDVUN3RKVGVJTkNqOWxEcUIxWWhiWTJRUENBWTVnWEFjVHBpbXpDRUVWRk9neXRybWRSQWVYQ1VnbXBPRDUwNXN3Q2lEV0FKM0Vxd194N09DdHlYUG1kMm91WnRWNko4MWlmUHNQWkE4TWgzT0Itak44bUlwMlhBMjBmeWo0WnF6UjNZbW00Zl9KSXNHTy1NUjU5RXZ6ZHdUdHJOSg?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Iran’s Supreme Leader Khamenei meets parliament speaker Qalibaf, state broadcaster IRIB reports - Arab News",
+    "summary": "Iran’s Supreme Leader Khamenei meets parliament speaker Qalibaf, state broadcaster IRIB reports Arab News",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3A2ZlFFbmxoYmxBOF9yX3BPU2JVMEdlYVl3aEJIUFBsSGVxRk5pTzdnWXIwU2I2cm15Qm5qaURpUTBmU0RtMFdRMGNoTm9BWTUwNTIzN01WSGtJUWVNQTRzMnNVcEdYd1JWTzZNYTd6SkdvMldsVjVrS2htU1Vuc1FpNGFDc3llR2s4aVNNNkJERWc0a2dsVDlKZVZTcGxxbnNsVjVNMjUxMTJKMnRwb05mdTlyNnpQQUFiSmRITmVWVU5DdVNEWWp0bWJ5TXdnaExBRw?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi scholars' council condemns Houthi attacks against civilians and holy sites - Arab News",
+    "summary": "Saudi scholars' council condemns Houthi attacks against civilians and holy sites Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaE5XN3NqWFZpVDlpS3ZHc1c1WWR6SlE4SXl0ekh4akM0bVYtQkUtZ1BTdDV6cjA2SGhWR1ZIZDZ0NnVNbW92YTNQQURKTnNvR2lfOE5QQVNZbjByMzNldzR1ZnBscFpiSFJnV0gyQzc2MHN5QklFVExfeWRKRjhUZW9oT2xYUHB3YkQ1MzZPZWp4MlAzX3hVTGxFX1F6bjVPcUk3Z0tHRDRGem8tb3hmV3pJSmpKYmVxek13TUpldnZ2bUU?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Oil climbs more than $1 on fresh Houthi attacks - Arab News",
+    "summary": "Oil climbs more than $1 on fresh Houthi attacks Arab News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTRvLW1ZZm1ZNlNQUDVKb01haDlIM2RyMlIwWV9xXzQ3THRxZnE2MDJ6dTNxaGV6UWExYzZxYjh5Mmh5ZDM3UXBGSF9qMGVrT1haLVctVTF5MlpQUDlvZ1RHTXNGZWlQTnhCTXZVOF9ZRWk0Y3kzNzBwMTBuU09kcjA5VG95RTI3Y1A5cUVOaw?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Iran security chief rejects moving enriched uranium out of country - Arab News",
+    "summary": "Iran security chief rejects moving enriched uranium out of country Arab News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaktEaV93X3RTTlpreGRXUVNaR1pOdnJUWkFWdzRIenpnRlNDaVlKZE96ZmNkUWVyM0lxRkxuTnBQV2JtY3pXVG5XcE5ncS1mOFFQSVkycVlkQkdCUlRJREROeUdJRWI0MFdONFJ4cDVNREl6QWwydXlnZDB5b1FoXzNTWUZPSGRCaVk3U0RpM0tPb1drTktJVU54SFBrNjJuaWl4MVR4SkNad0t0TzF4MQ?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Iran to Pakistan’s army chief: No talks with Washington before our demands are met - Arab News",
+    "summary": "Iran to Pakistan’s army chief: No talks with Washington before our demands are met Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjZZQXZGb2YzOU9LNUFmTFBKTmZkMTZfNFFvTEF2RHdVQkt4ZUt2MTdPTTgxVk1jYTBDN05qbUVXdVdhYzlmYm1sNFZucGhVUi1jbksybzVJT3RZSUs5RGVkMzNqSGZ6X3V4eUNPZmxhT05Rdkt3LW53TjlLSUkxZUlSamVHRWJOSHpvNG9GRG9mWDVxMVU4NTRDSncwQU8zNlFrUW1PamhBcS1GeUlqWndVdzVKcVAxNnNn?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Iran foreign minister says Russia, Iran have ‘never’ worked so closely - Arab News",
+    "summary": "Iran foreign minister says Russia, Iran have ‘never’ worked so closely Arab News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzdSZEZ5MlJsQ0lOVDhMVS10NWFraUpGUjhDYXVjaTNmbWIzSXR0OUVmbGlWMllxWkhGTmlhbXJJVU5tWlNIRUJlX2R3UDVleXZ5TkRKVGxVd3YtdUc5Q3lpUWp3VnREeGFOenZQNWdKX1Y3eHhUdGc0emNqMTBqNzdEakhqNFYyTlJaWlFRbDFMeC1wZlNGMS1ISE1RaHZ6U3lrV1pOZ25sZ05KVWoxZGpR?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Egypt bus crash kills 13, injures 34: state media - Arab News",
+    "summary": "Egypt bus crash kills 13, injures 34: state media Arab News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0QweFFMQzg3WThxbFBXLWtjVm5kaHE0ZXJMTTF4QzNZX2duQ2Vod3VhdmtqMmFJeExsUlFGbTE5Z1dKa0RzOVNHWlg2QlRNSEkxbnBOOXJVcGNHUjRDWk5WX3ZjRWR6bl9mNTlGbFhfOFBzNFh3LS1wY0xRSGQ1Z3luLVBLYUJ3ZEc4NGI5bEZSUTRVelQ4?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "‘Close up your borders’: Trump blames French unrest on immigration - Arab News",
+    "summary": "‘Close up your borders’: Trump blames French unrest on immigration Arab News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWU52YVpRcE90VDFlTmZwVXJyZjkxd2wtSDNOQTYzWDRERnRueVA1RWc0WU04ZmlCall2WGVwUnZYUk9WRjdRb05DaGF5TjFrenQtQTdrYnctZnVFemtYNmU4bmJjUS1lLVU2d2N1dmJESWRuaGZ6RHFBNkRXck43WFc5dHZaTkVKRTh6bDVQWTFMS3A2X1YxZDBDWnBLc210OFhKYw?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Iran summons German ambassador in tit-for-tat move over accusations of assassination plots - Arab News",
+    "summary": "Iran summons German ambassador in tit-for-tat move over accusations of assassination plots Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFVIR3ZQaWgtQ25DWmlWSHg1Tmp2Ri1QSktURF9TcFFQa1poQzdDUS1KT1FXUGh3Z1dTU2RjQXJ0dmE2LXBOaDFxcEFoMC1rT0tzYmtISXh0ZjRvTEFrXy1EY2xlSnU3QjZzOWJfbXhxeFhsalE3ZmRCdjJtQVV6VXQtUmdmeTIzUWlDWlYxNHRNOUoxUGplSGtPcTRQM2lpV1Y0emg3T1V4a1Zqd0tFMUFrdXh1NmNBVmtUQ0xNMjM2a1p3MFZJXw?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Why Ilhan Omar’s case gives US Somalis a bad name - Arab News",
+    "summary": "Why Ilhan Omar’s case gives US Somalis a bad name Arab News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0swUVBqSTE3VG44cTVmYXFuLW9QbERBM3JDNnV5aVBuX3NNMUgxNjg3UllCZzl5aEFoaWlTd3VPNTc3ZVhGblB3UUdYWWdpLXhfWmMxVGNCMzFSeEhOVmlyMXY2ZlZSY2NiT3NrcGU3RlFXV3c4UnRrSUNTb1RIV0JiQlZHNktGX3hWb3hrbVM?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Houthi attacks on holy sites, civilian facilities is a grave crime, says Malaysia’s mufti - Arab News",
+    "summary": "Houthi attacks on holy sites, civilian facilities is a grave crime, says Malaysia’s mufti Arab News",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2Z0M0NBd204Q2FYUV9FZGFfcklGSzk5WTZ5OWlJMS1CRE1pMHRQMTFNQS1mMEg2cnhwOWx1WGluMjF5SkhodjZ4ZFo2VlpORzVUbl8ycEpVWmRYX0FlckNhTmZ3cUxvbXVCNU16V1VLWHctLWFLVk9MYnowWk1iMmdtRElJVm4xMGxZdF9hUjlGdThxSXU4eVM1NURwOS1jcGRnU2xuVS1MemtkMVQzMmZZU1FsOVJCVzFDLXpaYW5rZ1Q5U2VCOU9VWEE?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Syria, World Bank agree to set up fund for recovery and reconstruction - Arab News",
+    "summary": "Syria, World Bank agree to set up fund for recovery and reconstruction Arab News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkh1eElDYXBTb2NEWm1HWE5VZVlEQktrcFhJZ0FIMWJLbUtCV1pnT3NnYk1QRzdiX3BvcGVFeTYybzFJZENlSEE0a0prZU1Sa21SeVpOd091cXNJYkFuWEVBaF9ORW5yZHdEQnliUzlJXzllLUg2MXRHNmZnc2F3c01GNmVrb0JrS2RoUzQ0dmtmczBybktYNnFvVkFUdWp2Y3pZRUlPaWdBZTlJM04td0l3b0U?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "What We Are Reading Today: ‘The Data Economy’ - Arab News",
+    "summary": "What We Are Reading Today: ‘The Data Economy’ Arab News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXg2bmJJb3kxMHctRWNEMG5FQkl0TjhCTWMzWlQ4LTBOSDR2bVFWcUphb2RuM1dhdjcwVnZoS1EzdTRGcnB0ZXZ6UVF6RENVQ1VjSmZNcmE2X2hheXcwbmozbG9sVENaZmFsNkJpYXdTVEtQU0E4b2p6WlplMFlEQllVTW5mM0JWSjdENGxLQzFsQQ?oc=5",
+    "date": "2026-10-12",
+    "lang": "en"
+  },
+  {
+    "title": "UAE economy grows 0.4% in first half as non-oil sectors expand - Arab News",
+    "summary": "UAE economy grows 0.4% in first half as non-oil sectors expand Arab News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2Q3b2lKMGdCb3hoQ2NjZGl6Z3BzaUY2aFNVc1kxQUFkejZ4UjNKZk0yd0NnOEdpYjhPMGpxR2t6bG5VSjFSVm4yMXJOWlNSR04xb0hqZ1R5U3o3Y3lwdkVscjVyVVJCbE9sbER3ekpHQ0dEbU8xWVJjdVNfUHpNSS1QMTBSQ0tOSW9WSmdDZ1l6NUg0d2VZbmI2Qkx2YVMyOE5yNQ?oc=5",
+    "date": "2026-10-11",
+    "lang": "en"
+  },
+  {
+    "title": "Defending Saudi Arabia is key to global economy - Arab News",
+    "summary": "Defending Saudi Arabia is key to global economy Arab News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTl9VTHRmMGRXeDJhTTdIQTIySW05c01kQUMzVkIySWZ1Vm9WWkdBRHItU0FwWkE4dVNTdmZ3M2RxTHBSNlJXZDItZTB6VTdXRnRIdWJNTUlXbGphQllLeE5NdUFEQnlMbXhPcGg0WVJSS1dVR0xjY19jbG5wYURtdUVIMjFBXzRxX2NTcWpsbkVpQQ?oc=5",
+    "date": "2026-10-18",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi business confidence holds at 56.6 in September as industry improves - Arab News",
+    "summary": "Saudi business confidence holds at 56.6 in September as industry improves Arab News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXJtZzRyQ3pCcnVPaDlRRnpLTk1VaXQ0dGR6eU4tSnlYWkttRXdKYmhBLUhSbE1ua21xS2ZPemNEZWZtQlMwbUxoaVRVamZLQk5jVVJwZmlid210dE1IRHNGUDRCTmYxbzA5ejA0MnFiN2tZbUxtdVViWEJtRzZyd3RJWl9WOWJvT0hlRUJMWEN2d1JmTS1HTXotR0RHZm5TWUFkMGRyVkVCaHNTTnRjZHFUbnk?oc=5",
+    "date": "2026-10-11",
+    "lang": "en"
+  },
+  {
+    "title": "Elsewedy Electric joint venture secures $2.2bln Saudi power project - Zawya",
+    "summary": "Elsewedy Electric joint venture secures $2.2bln Saudi power project Zawya",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1NFS2Y5dzBnNXFnLWdmeVZGVUVfemQ4QjBjSXVxOXRIQnpUWTlmeS1Qcjlhd2hZZnZSN2lBV2QyOG1iMEdFMWR2RmpoTksyS2NCc0RJVFJZLUpkNEJjX3g4c2NvcURpNVZwN0FtcmhUWTBoWmNEMUN2UF9wWlVtWDZJVVlfTkR3ZW1lN21xN0pBY1I5RmRjUkl4bjU0ZUNDSFBDR1ZXNl9COTNT?oc=5",
+    "date": "2026-10-13",
+    "lang": "en"
+  },
+  {
+    "title": "IMF says AI investment keeps global growth around 3% but brings massive disruption - Zawya",
+    "summary": "IMF says AI investment keeps global growth around 3% but brings massive disruption Zawya",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmRuTmtfaEhFNnFVaDc4Q1ktSU1UUWZCaTY0ampEYlVKek5tUWhVRjBPeTdwOU9tVFY0UndELXlnUXRxMnotbDd1WFV5MkIwZHpLRHRBNXZrX2NXenRucFNDc3I4U053dlR1ZzRHVUxLeWNoNWFjSVhzbzhrU3dFVC1LeWxLWU4xUTExVGhBdkxHd0dfcWNMVWxoZUNiWFJic2pOMHk4ODIxakpaUUNRZ3p6c3dkYTZZdXhUYTlVQzZua1U2OHc?oc=5",
+    "date": "2026-10-12",
+    "lang": "en"
+  },
+  {
+    "title": "Inception42 launches Alpha, transforming investment decision-making with AI - Zawya",
+    "summary": "Inception42 launches Alpha, transforming investment decision-making with AI Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlRjSm55ZFIzRmk5V0o2UlNFay1pbWxlTEY4UWJvNzNMTEViZEg0ZWktOHFucFhjR2c3RkFPNlNjdGRZaFdRaTJldEdiamFrYlpBOFdaQWMtTDExcjV0cFVFVTQ3WmpudHFZSTFadGdkWUVVUjFBSzh0Mi00SXFPb1ZGNEVoa0JndUZqZXRWcGFlakxqSjRCUWlEVENQTk9oUFhqWUpGclYweU5OV1BLWGdjYTRzNC1SQ0pUY2ZDa2hOU09RQkg3b0hOdlhqZlZqRnc?oc=5",
+    "date": "2026-10-13",
+    "lang": "en"
+  },
+  {
+    "title": "UAE Ministry of Investment and China Securities advance strategic cooperation to strengthen cross-border investment - Zawya",
+    "summary": "UAE Ministry of Investment and China Securities advance strategic cooperation to strengthen cross-border investment Zawya",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeVhSOGdXTFpDclNBelhVd2tJbHo3U0haSnc3Z0pmVlRNRVZjWGtnY2E3bzNSdFVFWjRuMmVfUzJJMDA5Vk9KQjV2MnNoYjJDMTlUQS1QYzRRZzVNUnM4R1NXRkc2Rm1ocHJ4b1VfXzhLLXh6WnBHQkpmNHNYNWJGYTVFSHJTQm1Udm1PMW0yQkhDSXJQX2VNQVhIVm1OQkZnbkpoaHBnczk3UkxhZkt3WGNqbXk3WmxBNTJQQkx2b2ExNGw1aVptR3JaZ2FJc0Z2NVJoM1JzNlBmekhobV9VcERZZDdSX2VCZnNJaEdUUlVqZUhMTllIZjdfTzJHUVY1TDBVd1lPOW9MUQ?oc=5",
+    "date": "2026-10-13",
+    "lang": "en"
+  },
+  {
+    "title": "Dubai Chambers signs two MoUs to expand trade and investment cooperation with China’s Greater Bay Area - Zawya",
+    "summary": "Dubai Chambers signs two MoUs to expand trade and investment cooperation with China’s Greater Bay Area Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMG0tdW1xX3B6UldrTV9SUUdOLXBVTHBvMVNCdXRYZUpWb0ZCRlhiWmRLUWExc0JkVGZqSi1naWxUaFdJbmFZTnRPUVNPMXdyaExWNnRLN09ZdTBydUtYek9GSDdweHFtVlBJWHllWWUwVC1jOHBpOEFIY3hhZ1VmaUdXTGpkaGtMdEdaWnBpbWVuSmJ4TlJfdmhyWU1EMGRfbS1fNklXSjBrNHBMMWlYdnNJOW5MTndQaXpSeElTa3lWRWNQdEF6c0l2OEtXUlNWSVFWM3NNQ0duNno2NWJaMUxpRU1vWDExY25LcmJaMXpsZncteXZB?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Plenary, Abu Dhabi DMT sign terms for integrated transport headquarters project - Zawya",
+    "summary": "Plenary, Abu Dhabi DMT sign terms for integrated transport headquarters project Zawya",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaktEbjhQdWxHbkc3bEN3bnY0RkhMNFRfOW8tclNlQVF4d0g0aVN6QTRfTElrOWZUSjdzcHVLLW4zSUFtckFhMDBfcFhidkFpbWh4ZW8wUm9ZalBNS1ZNa0g5WVJYYU1lNEh3VUZBY3dZSW9IUWNtcm1hWEEwRzRuZlZFOEdrQ3BEWHpETEltdXFLdGMzckhiQ1lxeDNqT1o4RjZPWFlaSDhkWXVwYWd4N2pCMDhlWFctN2U4U1VKaU1uMjVoVFFWUGJ1RWluZw?oc=5",
+    "date": "2026-09-30",
+    "lang": "en"
+  },
+  {
+    "title": "And opportunities for trade and investment growth in the Kingdom - Zawya",
+    "summary": "And opportunities for trade and investment growth in the Kingdom Zawya",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzF0M2ZabFdqUzFZQlY5bjFpbzY4R2g1TzN6dW5GdHltUEFrV2xHQTExck92bHdFRmFPR1FKaGltejlXaTZ5UDFXMVlZMEZpWUlNbXNYT0RlQ0FfSlVHVEMtcUhpOGdXLXg2VEhDaVl2bkJnSUs0MnZ3S3pPemE4RmFrbXBVeHpSMjRiMnhZLWx3VXJOX3VkbnlWZThuZGNPcFlpc0x5blZqVHlkcTBmZXpMdzA3alV4QnF4NmF1MS1NN0dDLTBtUU5B?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Abu Dhabi delegation concludes visit to London, advancing investment partnerships and expanding business opportunities with UK companies - Zawya",
+    "summary": "Abu Dhabi delegation concludes visit to London, advancing investment partnerships and expanding business opportunities with UK companies Zawya",
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQalVWakd2SGthdjhiWUlLWDNLX1JuV2VIdEZjNWx3LUs1TG5vLXZUTEo1TkRuaFkwcHFZMW5WTTlCdVVkUjRETVNxSGF4SFNGYUtDVkthTUxQd3FhYkZQRU0yVFo3OFBBOUpndUpkR3RhN0E5a1VuTzlFQWxqSm9nX2YzV19KTVhiaG81NmN0QW5lUmROZTQtNll0bGp1NlpXcXFzbFY1ZVd5eEIxMXhwdWRVcFNnOUxFT0RZNU9oRW84dGszcWFmdC1NYzhCcXl3T2ZQX2ZFOXU2WjFoY0NRdmozYjhId1JVTzd4OTA2MFVPbk5OcWZyb09YSXl3Rmh3RjlIX09CS0R1SHVjUHdVQ1ZYVTdKbVJpamxhT1hWS1FKZDVD?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Investment firm RMBV to acquire 50% stake in Egypt's ATCO Pharma - Zawya",
+    "summary": "Investment firm RMBV to acquire 50% stake in Egypt's ATCO Pharma Zawya",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2Vtdk9nd1ZZNzFRVjc3NUY1SU05TVdDVS1XSzF1eGdHSDZvNHJpQ05RbzFiOTRDWDRUOG9tWTh6VmFkbjJ2cXI1LXoxc1RCS2dPTkNKanhZMGg1UHlfMDR0bm56b2o2a2VzSm9xUTZZSTY1ZzJLdmptdFBSTWhUVTZOZ1o1ZG5JS0tjbzZheENqQm5FcXVKQUtQRzg3MjVDT1NMbEZHY0FLWkQwbDFPQ2dlc01KNkZuRTVqQQ?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia launches RFP for national dialysis services PPP project - Zawya",
+    "summary": "Saudi Arabia launches RFP for national dialysis services PPP project Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdzV3MExSekR3VlRfZnY0aFl5VUVvNTlwQy1PbTZEdFBORmhtc0VJUko4X0NDZEVkYlJ4bjNsMWxCT2dQR2N5NkFUdHJzMWFaYzRHY2FMX3BKRHVvaUZWazZuM0xzRTJiS0ctM05aTDNieUJBaUpWVVRYNjZiaW5IWTdQTUE0cmp0RTUyV3FudzUwRktDM1Ita3BXNnFqQ1N4NXZtSUNjYkstVjRBT015M05Va202aERlTVA3TjdqVHZGLVAtYnBrSzdlNXY3Zkozbm5xVw?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Iraq plans oil-backed financing fund with Turkey for Development Road project - Zawya",
+    "summary": "Iraq plans oil-backed financing fund with Turkey for Development Road project Zawya",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamdlLVdsaHM0U0hlSXhWSnl0X1M2dHUtcFlMd3M4Mk5ZN1U4bkxZNWFBYmJENGZjcWVCc2lLSUNHODc1R3ZKbXpXYXhHV052a1hPNW04Rlhjd2RsTF8zWFdfU0JnV2J3Q094VGQzajlGQmVwYjMxU2dBWTRLU0h1RDJCWkxlWG9Ob0xSTURXWWt2WHBNZS1YZk5VYjlWY1RZUmFNWjE1ekFYeUNBVzZ0amhOakRhbjRBaHRB?oc=5",
+    "date": "2026-10-13",
+    "lang": "en"
+  },
+  {
+    "title": "Eni launches phase 2 of Egypt gas project - Zawya",
+    "summary": "Eni launches phase 2 of Egypt gas project Zawya",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2xHOWR2WEF4QWNYZmxGX2wyRGpoMnlTM0pBTkpDMDhFaGExY2VVRnJMNUU5aHpRMkFfNFN0TUFhbmk2aVFiWDctanJYOVNOencwQTJnV210Rmh1ekRLTEdoa0xFVFBpLWtFYlFsNjNGLUpIU0FtekFDNmxrYkx2bDg2VURDUUtXNzV0ckNkUEZWUVpGMlE?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "FII Institute launches report on turning enterprise AI investment into business value - Zawya",
+    "summary": "FII Institute launches report on turning enterprise AI investment into business value Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMHg5RWhWN3JsZmxJS1ZSQ1RxdTZmN2tKZlhrUFJZeHh5TFNmeVlUS0JNU0FYNU9heVlITGZ5b25oelo4bGhnWXM0OHNhTGRkZF8wRk94VlF4Mi1mLUhac0hTbnZ3ZW9feGx0dnJVX1pYcnVIeXhab0F6YTBDYTNWZVBZNFdPRElRTkJsdEJuWDhfdmJ5cHNONmVES1VlQ0tBTmprQ19aN0JCclhqRjUta0swci1PLXhXWXhrYVY0WEJzYUFTSWZYN19Ea292VjdBbjExdUlFLU4xX0Z6SGVXZThxRQ?oc=5",
+    "date": "2026-10-12",
+    "lang": "en"
+  },
+  {
+    "title": "Samana Developers unveils $1.1bln branded residential project at The World Islands in Dubai - Zawya",
+    "summary": "Samana Developers unveils $1.1bln branded residential project at The World Islands in Dubai Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemFYZFl4cFRXYVJfLU1LYUpxX0pFVDBpV2J4cHhacmRiOVdIanF2eGpJYm1GeWFUcU9pN1ZvMDRGOWtlS3VMOFZfOXNxbFdnclg3WjBqdzVXcTRoNzIwR3lkY0dYTE14ZWo0YmVNR0s0M3REbUpVSTdGUU9jUXY5SlNMak5ienVnTjBXTGJxT193Q1EzSllpV2Q2OXZQVFllLU15bnc5dHg0RFNhbEdvMVBuOGVINmpmNFZrc0sxQVRtZlJBUUxhaEVRdnowZHhRNFBVVm9oSTR2M0lMOFE?oc=5",
+    "date": "2026-10-15",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Fund for Development announces progress on Pristina–Mitrovica Highway project in Kosovo - Zawya",
+    "summary": "Saudi Fund for Development announces progress on Pristina–Mitrovica Highway project in Kosovo Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUTdxQzZHUGtJUUd2eE1QMEpFWFEwUU1ER2Z1VlBwUHl4aWVkR3Y0cUpUaGpLT2RhdkFRUFA0TFZxV0k0ZEFYSm1NWUNaWEtaRTNESmlseU9SYWplUUNBcEVkRFFOWGt1Q0RkWXJwY0ZOZUNuVWNISUl3SEwzODlnUjd6a1hPS3ZJd3F1SVhXcWhMWEdPT1p3TF9TUHdUako2QlZ3Z0xmdWZOQ0M1NURHVko1UHNXbWpNX1lQNDU1YjBvZFlqTzhvdmZUYk1FRGpNZWpYbG5ndVROZV9CNmptWDhfcUJldlowZlBB?oc=5",
+    "date": "2026-09-29",
+    "lang": "en"
+  },
+  {
+    "title": "Qatar's Ashghal announces new package of roads, infrastructure development project in Izghawa, Al Thumaid - Zawya",
+    "summary": "Qatar's Ashghal announces new package of roads, infrastructure development project in Izghawa, Al Thumaid Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcVd0UldLWkJjZlF6OU9tRUJkcXpTTU1DWU1rdWpOcUYyVEF3NGhyOUxWS25PRWIzRVJFOGs1SlA2UUFPSGYzTl84RDVVaU9SVlh2dko3RzlxRDlyNlVzTkVnX1BKNU1ZdkVWZDg5QnRiRnBlMm1rYjloSVpwMHliSGlvSG1yLXZmaG5CSVpuOVdEeDVzak11dnVGUFJsd2VidmVieHQzSXRPc3ZqR3FvWUlOM2VmcWVjUU1haWFLYU9aMGRGU293WUlGdVg0cjJHc01CVGlfSmFBa09vVXA3Y2ltanhTQnFuTW03cHVn?oc=5",
+    "date": "2026-10-13",
+    "lang": "en"
+  },
+  {
+    "title": "UAE and Georgia explore means to strengthen economic cooperation and expand investment partnerships in new economy, tourism and sustainability sectors - Zawya",
+    "summary": "UAE and Georgia explore means to strengthen economic cooperation and expand investment partnerships in new economy, tourism and sustainability sectors Zawya",
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNeFN5bGg3eFVwaE5QVzlXWHZPLVdaUF9PQ1RZQ2I1VG9RWVVtdmp5R0FsWTVNMzNsdnlPM2dpZlBkQlRtSUUxNkxhX25QNUJic1l3NllPSy1GWk96Vkl6c3I2dWRLTlBlODFNcm9sOFVCRDlWajk5NEg4b0JJYUpSNFNzM2dzQ1g1b0lIN3Z5ekd1RWdnWEQ1aXFMNkxqMzM4SS1PVWRwaHBXSEdoSmdsXzNnZmVoQ2ZJT3pHNzBEYmFnWEFidGZJTnI5RGxKcC1OTl9WSVdESXhQbjZPX2wwX00tN1YyV1V2VWpwVWdBRE1IS0ZYNHQ0cmNKOTBvcVNqb1JiWHZjRXpaOVRVMGVwLWVxdlZWWmVpb05GVWwwajNLbGlBM293R2dSaHlVbEdYNG5EaUdIdw?oc=5",
+    "date": "2026-10-16",
+    "lang": "en"
+  },
+  {
+    "title": "Abu Dhabi developer Aldar enters Sharjah with $300mln investment in Arada project - Zawya",
+    "summary": "Abu Dhabi developer Aldar enters Sharjah with $300mln investment in Arada project Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2IwZW5lblRJZjhRcG81cDh5MkM3bjVrbHFaUzBEQ1NjLUF0WDhqYkUyOHNkZ0xsNzRVTU0yd01heGhhTWxyZlR6TXEtV3BZZDRRUVctWnN2MWhCcHZYQjVNU0duOFZDY3F4SE1neFJKVDA5Rzczc2tvMXZqMkhIWjlSLXRjWHRPVTc4ZWFSMU0wZWJ2aE43SHFWME1sRFBPNHlGOEhhSTZUOXJwNjJKRWI4ZEpjWHNkb1NIcktXNU91b3prUmczYTVOaDhYMFhBdE0yZE14NA?oc=5",
+    "date": "2026-10-15",
+    "lang": "en"
+  },
+  {
+    "title": "Official Opening of the Lesotho Trade and Investment Forum – London, United Kingdom - Zawya",
+    "summary": "Official Opening of the Lesotho Trade and Investment Forum – London, United Kingdom Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0JBZ2ZPMjUxVDEwSUxMQU1aY1U0SjdzQVhrYVloTllYQkV2VzNYVEgzUzZFLVdUdmR5ZW5ETWEyNURoeWtlOHhVR0VGMHJqTTFJY2hMcW45aGU4QVJQR0VKdFNUelNpNy1janpib2RBVGxMMkpjRUJpb01SQURrOXZPNzZuY1VHUzlfejFzUGp3bTJFTnVDRHBxSWZDaWFYWkI2dGoxWDBHc0hRZmF5TEgteXVXblEwZndvd0NhLTBLcVZteXRXTG90WXJ5cGNSc196RG1ZNmhFQXVsT09UZlRnSQ?oc=5",
     "date": "2026-10-23",
     "lang": "en"
   },
   {
-    "title": "Houthis target civilians as Dammam airport and energy infrastructure attacked",
-    "summary": "DHAHRAN: Houthi attacks on Saudi civilian and energy infrastructure killed four people in the Eastern Province on Wednesday, underscoring the growing threat posed by the Iran-backed militia’s widening terror campaign against the Kingdom. With airports, residential areas and energy facilities increasingly caught up in the escalation, the attacks are bringing the consequences of Yemen’s war into the lives of ordinary Saudis and foreign nationals living and working in the country. Although the vast",
-    "url": "https://www.arabnews.com/saudi-arabia/houthis-target-civilians-as-dammam-airport-and-energy-infrastructure-attacked-3007712",
+    "title": "Egypt: GAFI, CCPIT Hunan sign deal on investment, commercial mediation - Zawya",
+    "summary": "Egypt: GAFI, CCPIT Hunan sign deal on investment, commercial mediation Zawya",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFNDeFFQTkhLbEN4Q1VnSVg4Z1lGNl9MVXRacF9mbHhhWE5qNGp2UG03WEhWcExQRUFwaDdnck00R3VZQWFqNUZRNHFxcEZ3Y1VsckdMVGFneVN6UEoyQ0R0d25ybFhJTDdTOWQ3eC1RaFhNSS1VRjBNcmlDUkQ3QmZrN3oxRTNJNE8wVG1HNXAtNHI4UHJFNS1WNGFXZjFLcHloV0VpMFNCV2Nt?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Ras Al Khaimah-China Business Summit advances investment and economic cooperation - Zawya",
+    "summary": "Ras Al Khaimah-China Business Summit advances investment and economic cooperation Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNG9MSGhuMldBODZUQXhtWUxLWGFiOUhNMHBEejdBRGlMZHFpbE02Nlc1b3lWQ2FwX2hBaTVQSHZ5RjFfWW5IWkZyZlNiZURET3U4dGtfbGl4b2M1ZzRsMmRMTUJDd05yZ0NURGxLVUtFdGZZTHpQdWVjZXZqVzBIWDFmTFZjblhDUy1ScTNobm81TVA5UzE0VjNTZFRRd3Z1d0NNelZsMF81Zy1uQTlKcElGMnNUUDdUeFF5TENTcTlDWUlybE9rTTl1NDhkcTJkZmlvRzIwdU5fSmpNQjlqdg?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "ITFC recognised as leading non-bank trade finance and investment provider - Zawya",
+    "summary": "ITFC recognised as leading non-bank trade finance and investment provider Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHRTc2hRRjVMRll5RnY5SDVNOTlMcDF0UUVFVXZSTXQyQXJfT013UGh1Qjg3LXFOcjY5TEhjTExHVF9obDRLU28tVUpaQlU2M09QcG90VkdpRFYtdUd1ZWwwaVFVbVdGNUJid3lzZGN1UGhfU1k2WTl5alg5dHVGaGRJR1BCYzQ1R1QzWklMckRUb0JaTnFpN1h0R1ZGU00tRUtSSUI5SmZJR2VqZEdDRkYxOHhmS014NV93YjEtVkJZUF84MllBbjBUNTZvT3JK?oc=5",
+    "date": "2026-10-01",
+    "lang": "en"
+  },
+  {
+    "title": "$17B in Commitments and New Deals Drive African Energy Investment - Zawya",
+    "summary": "$17B in Commitments and New Deals Drive African Energy Investment Zawya",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMi1USzBZdEt6SDNQWkxoOWpiSWpWc2htNkVaS0JDTnRjNzBFQnhlc1ExQU9zV0hLQmNDQmQybGhpVFBOQWlNMGpYQ2NQVE9SZ0tzdnhsUjloSjBhVXloQTczVmwzN1JKcW1VbTlBRXFxU3V0RTJZWkVJbXZfM1VpWWpIczRPNEs4UjFJYmJITm9SQ3dPclRqdEpYNEloQy0zOXBKSVFCY01yVU5FTWowaURNYWNBRU9aSjdGVEhHdDZEVXZyY3c0WktTdjBHUQ?oc=5",
     "date": "2026-10-23",
     "lang": "en"
   },
   {
-    "title": "Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye",
-    "summary": "Egypt’s foreign minister, Badr Abdelatty, and his Greek counterpart, Giorgos Gerapetritis, on Thursday reaffirmed their nations’ rejection of the ratification by the Libyan parliament on Tuesday of a 2019 maritime agreement with Turkiye on maritime boundaries in the Mediterranean. Ambassador Nader Zaki, a spokesperson for the Egyptian Foreign Ministry, said the ministers stressed the importance of respecting international law and the provisions of the 1982 UN Convention on the Law of the Sea reg",
-    "url": "https://www.arabnews.com/middle-east/egypt-and-greece-reject-libyan-parliament-ratification-of-2019-maritime-boundaries-deal-with-turkiye-3007783",
+    "title": "Kuwait, Saudi Arabia hold talks on water interconnection project - Zawya",
+    "summary": "Kuwait, Saudi Arabia hold talks on water interconnection project Zawya",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGRmZXlwQ2dya1E1WDY3anVFNzltQ0lHdkJsMVc3dmJOVDNmcWNCc2lHVkNwMlZWMElxeWUtRVRlTWtqSjFCUnBNaFc2OWY3SS1YQllQbXpZeUZSMFRERUhlci12NlpUMUJGUmY0c3BpUlRjd3cxY2VmWUcyMFhmeDYyQmFYOFpBU3F5V1l0RmVjWXpROGZvejVGSlhHMVhTVm9Bek44c3JIOGZ2WDU2RkY2LXlrUQ?oc=5",
+    "date": "2026-10-12",
+    "lang": "en"
+  },
+  {
+    "title": "QatarEnergy's LNG expansion project poised to start operations in November, sources say - Zawya",
+    "summary": "QatarEnergy's LNG expansion project poised to start operations in November, sources say Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQm93R3JuMmdkQmRQZFNoc2JlLWphR0tHS3NEcTFqTERfdUJBYnE0enp6d0s4R3pVWnhrVHJ2QXJEVUR3dm1ubW01a05MWXM3eUNCSFUyanZVcThKem5pRDFsRDczeHZKVEt6ODVWcFZlQ0JzSkN4Y1pzUzRnZXdUSHhHdXIwWnFPQloweS1wTEROaHVOeVVGUGttVzIweEw1N3JSempjRUQyc2prNjc2VldqUW9iY1JFQjVtcnluRjhuVERNWU84UTlzejFWei1EaVh3cnVB?oc=5",
+    "date": "2026-10-07",
+    "lang": "en"
+  },
+  {
+    "title": "International investment gate convenes uk-saudi bilateral investment forum at the queen Elizabeth ii centre — MOU signed with jozo - ارقام",
+    "summary": "International investment gate convenes uk-saudi bilateral investment forum at the queen Elizabeth ii centre — MOU signed with jozo ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BRm1vazFRaFhiNTdRQWdRdlFjSkJzejRnT1NxbWhGWUtiZVhYUkV5TG1nYUlxSkw1dHhPZUctOFlKYkV5Nkg0dWNxX1ZjbTg4amc2c3dZTGFLS3pYbXF6QkhxS1poOENpN1E?oc=5",
+    "date": "2026-06-15",
+    "lang": "en"
+  },
+  {
+    "title": "Argaam: Tadawul All Share Index (TASI) Saudi Stock Market news and information - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "Argaam: Tadawul All Share Index (TASI) Saudi Stock Market news and information ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1qYkNkaFpPOFpHMkxoTU1xNFR2OFBuWExnUWpIWFpISkFBdnFPdHYzOWxpUUxWQnR5bVR6UjRR?oc=5",
+    "date": "2017-09-26",
+    "lang": "en"
+  },
+  {
+    "title": "PIF, UK Export Finance sign $6.8B MoU - ارقام",
+    "summary": "PIF, UK Export Finance sign $6.8B MoU ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGQTRTN3p3Z0dwYk1FaEduMVlwRC15eDFsR1JvVkFBTGpJRlBFckRqb0w2cGlQUDMzVWt4VFgwMXhLdUhHR2NKMG5rQXh1ZEZrOXg1SERPMk1ubHNMRmREY2xiWUxLODdnNmc?oc=5",
+    "date": "2025-10-28",
+    "lang": "en"
+  },
+  {
+    "title": "Aseer Industrial Investment Co. | Aseer Industrial Investment | 0 | TADAWUL | TASI - ارقام",
+    "summary": "Aseer Industrial Investment Co. | Aseer Industrial Investment | 0 | TADAWUL | TASI ارقام",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNWh0Yko4bGRhcFZWaENQcGZCVHJvSlp4OWd0OG1uS3lieDZuN3ZQMXZ1ODlUcTRkbDRtaGlpU2xIMHpuSTZ3dEMxb3VVYkJubjJGOFBXckV3YWlvV2x4alI2dkZwb2hRTUUzZWpkSDVVM05W?oc=5",
+    "date": "2018-08-04",
+    "lang": "en"
+  },
+  {
+    "title": "Jazan Development and Investment Co. announces the opening of the nomination period for the board of director’s membership - ارقام",
+    "summary": "Jazan Development and Investment Co. announces the opening of the nomination period for the board of director’s membership ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSUpNbjNFUGNKclhEUmdpbDROV000N0xBV0JtUDFmU1pQMm5JU1gzY29pcW1CRGJSektkX2drREtEVGVLdGdXMXpORURYWFNtamsyeUVUQUVhTVE1NXkxcEVxWmxLa2tibGc?oc=5",
+    "date": "2025-01-12",
+    "lang": "en"
+  },
+  {
+    "title": "PIF publishes 2026-2030 strategy document - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "PIF publishes 2026-2030 strategy document ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZXhydXZGQmVPcDZtZUxFQUFYY2ZodHh4M0N5LU9EZF9RcnZqU0RjN0hOc3paRUVaLXYxYUhhNVdYSUZDbGNmVV9HZUxCSi1ZNWpRdlY2U1hyaThRS0JYd3RlRVVOdHdKc2c?oc=5",
+    "date": "2026-08-12",
+    "lang": "en"
+  },
+  {
+    "title": "Here are the world’s biggest banks by assets - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "Here are the world’s biggest banks by assets ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FNDhmVjRSODhXUURtTFJjTEZVZmZEZi1zVnoxc0xQTUcxQ0ltdDFFRGVna3RheEZJMV9DSG11Z0thT01iVVRXQ3k5TUltVlRWZmRJUDE5ME4wV2ZpTWhwZGRxTGdHdWcxWlE?oc=5",
+    "date": "2022-04-29",
+    "lang": "en"
+  },
+  {
+    "title": "Subscription begins today for Dome’s 850,000-share offering on Nomu - ارقام",
+    "summary": "Subscription begins today for Dome’s 850,000-share offering on Nomu ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdHprLVZSdy1YOXpWX0VfS21uVHhaVzhFUE1ZRTFObG5BN1dxcTZPem5BeFI4WTNrMXVwdzZ4bDYzVVRlM1FDcl9hZ1E5MWdaMFdlQnM1MWMzWmZYSzBhRmRSTlJJcl90MWc?oc=5",
+    "date": "2025-05-19",
+    "lang": "en"
+  },
+  {
+    "title": "Sahm App Acquires Over One Million Users in Just One Year, Elevating the Trading Experience Through Innovation - ارقام",
+    "summary": "Sahm App Acquires Over One Million Users in Just One Year, Elevating the Trading Experience Through Innovation ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PVjFVeWtJdTlhcGcyOXozZ2dWang4MFY2MW1ZLTFERWNNM0EySWtlVFZsbEF3WnFOeDJ6WHh0aExTMzEwT0kyRlZabE80OXgyYndFQVNpeWZSQkduT0x3d3RCQ3Blck9mUmc?oc=5",
+    "date": "2025-01-01",
+    "lang": "en"
+  },
+  {
+    "title": "Al Rajhi Bank acquires Drahim App for progressive financial future! - ارقام",
+    "summary": "Al Rajhi Bank acquires Drahim App for progressive financial future! ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUUZQajUxeFZWYW9leDFHc1NLSEo3bjNaaVpYQ2VzdTY4bVI5YTh5M204dWlNU3JPbm9CU0t6cE12QUJIbndJYVF0NnhBUGhrR3o1anU2MFBiY1dEWHJtZVA5MWhoWmFFNXc?oc=5",
+    "date": "2024-09-03",
+    "lang": "en"
+  },
+  {
+    "title": "Derayah Financial issues prospectus for TASI IPO of 49.9M shares - ارقام",
+    "summary": "Derayah Financial issues prospectus for TASI IPO of 49.9M shares ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ScVVnLWxETllmWGdUa2UySFZKN015dEMzNGhPZldoMURkb0oyYkNwRjRBa0Q0VmQ2Wm43X3piajlfWklvNE9zaVpIOG12Z2tVS2pBb2dxN1FPZnMzTmo2aWRPY1FvazdLTUE?oc=5",
+    "date": "2025-01-23",
+    "lang": "en"
+  },
+  {
+    "title": "Arab Investment Company names Abdullah Bakhraibah CEO - ارقام",
+    "summary": "Arab Investment Company names Abdullah Bakhraibah CEO ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UMExCazB1QUhTbDI3TTBNbENMUjlFbzZvQXVmMDAtS2duMlNVdTQ3X3hlaW9FYjNuRlIxcXZkNy1SOG1RMWdtaGlNQ1ZrNUJUNFpKN09YYmNCeXRTTDlCUWswX1h3NE1hVlE?oc=5",
+    "date": "2024-08-15",
+    "lang": "en"
+  },
+  {
+    "title": "Almasar Alshamil issues prospectus to sell 30.72M shares on TASI - ارقام",
+    "summary": "Almasar Alshamil issues prospectus to sell 30.72M shares on TASI ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YN2U5Z1BHM3ZQX1NNZEpmdFc0RDNfNllfM0VCamJNNjBySVlBU21BRXR6cHRtN1FoY21idVlSM2lrN3ROTXR6RmdiUlJyU21kcU1pOVEzRkJOVmE4SnptLXlNRHBseTFVeEE?oc=5",
+    "date": "2025-10-26",
+    "lang": "en"
+  },
+  {
+    "title": "Ataa signs MoU with BGE to launch Buckswood British School in Riyadh - ارقام",
+    "summary": "Ataa signs MoU with BGE to launch Buckswood British School in Riyadh ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TEl0a3N6ZFBxZ0Q2ektvS3lEbGQ5Vmd4SzVBdUxzMG9VTG0tR0x2VUZkWm9KU3AyYUlBR1J5TUhZc2VnMGJtczFvcG00eGRmNXE2SjAzVktXNWQ0OHV6TzJPVXhnbEVlN0E?oc=5",
+    "date": "2024-05-15",
+    "lang": "en"
+  },
+  {
+    "title": "World Gold Council: Strong investment demand fueled gold spike, thanks to central banks - ارقام",
+    "summary": "World Gold Council: Strong investment demand fueled gold spike, thanks to central banks ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16M3ZsVWFzSXdPRTZKYUdEZFRjTHEtYy04ZnQwN1VWWlhzMDNZNDNpc1Vua242MzFucnVPajhZbllNSkRDdGR1YnNsYXNwVEpsUUIyanlDRjB2bFZ0NlRNa2otM1pqWEctb2c?oc=5",
+    "date": "2025-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Jadwa Investment Co. | Jadwa Investment | 0 | TADAWUL | TASI - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "Jadwa Investment Co. | Jadwa Investment | 0 | TADAWUL | TASI ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1SHRGQlJnVEk4b0hrc0ZVLUFuQXVGcExnbkg0aGxNNlVOQVJyXzZPbldYX0dWVndUbmFtZzA2akdjcURlYzh0WVl6emczNWZ4QXJMVFB1bm9hZmtPaTUtTGxXcWtvQQ?oc=5",
+    "date": "2018-08-01",
+    "lang": "en"
+  },
+  {
+    "title": "Mulkia Investment Co. | MULKIA | 9585 | TADAWUL | NOMU - ارقام",
+    "summary": "Mulkia Investment Co. | MULKIA | 9585 | TADAWUL | NOMU ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qckxVZnF2NGdsbjJ1RS1RNXdlTEFRTUdrZjl0UUFqUTFnT3B2V2wwamlNTkZKTVNHbWVGNXk4Q1Q2cXpQY0Z4Rkpva1VleFlMSnRTTXVaREY?oc=5",
+    "date": "2023-11-12",
+    "lang": "en"
+  },
+  {
+    "title": "PIF sets up Saudi-Bahraini Investment Co., says Al-Falih - ارقام",
+    "summary": "PIF sets up Saudi-Bahraini Investment Co., says Al-Falih ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YMHI5WVQ2NFloR3FodEQzd3JfQXQ3OENSbHl2eXc3Q1ZqMWpaaG9VUGJlRHk1eDBsM1h6dW1uejN2ZGxvUzQza3pYNlVDVGFSZzVvZ1o1SVZHcjhRZ3VhWDhYcmxhSzhPLWc?oc=5",
+    "date": "2023-05-15",
+    "lang": "en"
+  },
+  {
+    "title": "What are investment funds, their types and objectives? - ارقام",
+    "summary": "What are investment funds, their types and objectives? ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fX1lCQVFMX1k2d3pwdHp2SU8tOEp6N2VYQ0JOZE9JM1lLcl9vLWl0LTlwcHplTlZVZ0lDSTRUYWU0bjZkMXBpUVYwRUpvR2REV3pLbU9WVzljeFNId0UwWXRTMkN3OGZlV1E?oc=5",
+    "date": "2023-02-22",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia leading G20 growth forecasts for 2027 reflects economic resilience: Investment Ministry - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "Saudi Arabia leading G20 growth forecasts for 2027 reflects economic resilience: Investment Ministry ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTMUt5Z0xqX1VqSUxyQ2tPcFRJZDF1QXh2ZjFlSGFmNmNsTmUwTUFhSndPVFI0TWNZclBKUXN3WjhELWR6cVo0Tm1Kd18xNjUxcjZPYjV0ei1OOWFVNHhyaFk1UWV2dlhGWHc?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Rawasi Albina Investment Co. | RAWASI | 9547 | TADAWUL | NOMU - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "Rawasi Albina Investment Co. | RAWASI | 9547 | TADAWUL | NOMU ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CaGNHVU8xN2VPQ0Q5eERnOWFMakhLTWNXQ0Z2VEpfUlpUcElYcDUyektiWE44b19pX0c5RGVCai1Hc0lNLXJ2X0libTFuU0g4blVOaENaTm0?oc=5",
+    "date": "2022-07-20",
+    "lang": "en"
+  },
+  {
+    "title": "Osool and Bakheet Investment Co. | OSOOL AND BAKHEET | 9586 | TADAWUL | NOMU - ارقام",
+    "summary": "Osool and Bakheet Investment Co. | OSOOL AND BAKHEET | 9586 | TADAWUL | NOMU ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84TEw5c0NGTFRoeHZ5MTZuWEtzWmhEeE1UNjNwaERhM1c0c3V0TzJYaVlEMVVGLWczN1dUVGRXM2xOcEpJVllOSTRMZENhMnJyMENON21hWnBLN01QVVJKZjJ3UGlROGM?oc=5",
+    "date": "2023-11-07",
+    "lang": "en"
+  },
+  {
+    "title": "Riyal Investment and Development Co. | RIYAL | 9584 | TADAWUL | NOMU - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "Riyal Investment and Development Co. | RIYAL | 9584 | TADAWUL | NOMU ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQzgwZlNsU0pmZ1BjZzNMTTZKbVRqQzJSMm1GRV9WNV9laXpSeWhxNUxwSWZBQ2FScTVmWTN5bC1neGwxX3g0aW85UnBpSVR4bjNXb3gyYw?oc=5",
+    "date": "2023-10-24",
+    "lang": "en"
+  },
+  {
+    "title": "Al Othaim Investment Co. | Al Othaim Investment | 0 | TADAWUL | TASI - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "summary": "Al Othaim Investment Co. | Al Othaim Investment | 0 | TADAWUL | TASI ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KUmNRUFRqY0RPNkF1N3JpQnZ1Z2k1VTJadzByajFFNklzYmtVTHp0Uk54dE81STdGc0VYWEtGOXVQeXp0NDNwMXZOcVVHRkZwdy1YZHYyWl9WQUJqMUZScmpkd0N2c2dHZlNR?oc=5",
+    "date": "2022-05-19",
+    "lang": "en"
+  },
+  {
+    "title": "Al Othaim Investment filed for IPO in late 2024: CEO - ارقام",
+    "summary": "Al Othaim Investment filed for IPO in late 2024: CEO ارقام",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84Q2d2R2RPal9tcUpnMTh4TmlZUUQyeFdwQWhFQUx1SFRVZGNIUWVCQ1ZmMVZvNkpsM0tBRXYyR3FUS2w0ZjFHT2h0QTl3Rk9tNVVDMWI3T2lCQnBLUUVHT3F0OG1FQVhVYUE?oc=5",
+    "date": "2025-03-24",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Aramco evacuates Dhahran headquarters, orders staff to work from home - Gulf News",
+    "summary": "Saudi Aramco evacuates Dhahran headquarters, orders staff to work from home Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmNKdDJEcmVVRVA5aGVjOGdZUmR0THd2NFZNVFFMNHhlNmI4U3lnbEhEbFlXbmUwN0VxQk5CdWFsR3A1c2dMSGZGUXlBWXYzbEVtUlN2V1k1Y1M0alFHMDlmMy1NbW1YWkd0d0FDMmdsQlQtMmpQVGhQQWsxWFhWeFkwQ2pLSXdMb0R0Zl8zSUtOd1RDM0c0cFZ3OFFiMTBGMUxlUXBSaEc5bTFhbkdOY1N3LUZwU2lEWk1UVFB5WU1FdElXOXF3dw?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Iran threatens to turn Israel into ‘scorched land’ if energy sites attacked - Gulf News",
+    "summary": "Iran threatens to turn Israel into ‘scorched land’ if energy sites attacked Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkVMaTdIaUtISXhRbDZ3X21SWGw5MHFTVFVFMEtJS09sSEhxaFE3V0hGRzcyczdkUWxUZmZ5aU5YWkc3SVR4dklQS2pwdlhSMzhsanlmdDhLbDJSb1VHak4xX241Nzl2Mk5IMDdkUW5TV1pfVDg4VXdna2paNWRXY1NNd2xhX0VOVWp6dmlFRzhzelg1TkppYXhOMVZqSVBEOU10SExvU3Y4YVYyTDI2dDJyZzZZU21F?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "A spoon that folds flat? Indian designer wins $350,000 deal - Gulf News",
+    "summary": "A spoon that folds flat? Indian designer wins $350,000 deal Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlhDLXRjTGNFMmdZTXhNMTMxNUZ1ZXFUeVlfZUtncmt0S2VJSUt2MHA5OGdib201Z0I1MXNEMXZwcTJZT19FTHhubjVwTUFQY0xkaXN6YmJDUEVfUlJBVmZDR0pKVlQzZk1TZzNOeE1JZUhWQWtJTkVwdk54MGUtNG9BSFZXWGF3ZFcxSVdzcXdrdU1KQVBYenJVSFFXTDBJZ0hRTHFQSjNBNkNEMy1rWllDZw?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Donald Trump says LeBron James disrespected the United States, demands apology - Gulf News",
+    "summary": "Donald Trump says LeBron James disrespected the United States, demands apology Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnAxSEZ3YmtlQ0J6Nllvb0NGX2ltY2sxNTRNUjBQQ2xDNG0xRWpkaTQ1SDZyTWlnYkp2aWEyZGZVV2ZGZXFSMk0tR1pYeXVuZW5OZjBDbmZHZmJYTF95UzZPbWpJWnZTanpuY3BUSHlXb05CcHFDVkpXVno1ak9JSlpvZFM0S0o0ajdTWXYtX19yVG5xaG5YUGVZM3hQaFlhdzRFNGJhRFBPWTNvVTRORElyU3JvMHM?oc=5",
     "date": "2026-10-23",
     "lang": "en"
   },
   {
-    "title": "IEA chief warns energy is becoming a geopolitical weapon",
-    "summary": "Dr. Fatih Birol, Executive Director of the IEA, warns that energy is becoming a geopolitical weapon.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
-    "date": "2026-10-23",
+    "title": "From Coimbatore YouTube sensation to Jailer 2 star: At 13, Rithvik Jothi Raj has his own company - Gulf News",
+    "summary": "From Coimbatore YouTube sensation to Jailer 2 star: At 13, Rithvik Jothi Raj has his own company Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOclFyRVpseE9xdGFtNjZhLTJaWGV6cmRRdVM1cFJ0eWxBNU1GcEJyeWdxMHFhNXhFRXp5RVV6Z3V1cXBzSWJzcDc3R1RlUmlqNWt1WUVRckdmZ2dOeEVrTy16RlBkMVgyUXZGY1VNandoWDlJUFBDdTlIRlRPd1d1WG9fR2NXM0QxVG1tNmRnYU9oOExtcjk2SGU1NDR5VmVKbGw3Z3Y1WlgzOFFUYWV1WmREMUpmOGgtc201eHUtay1RY3lPNlNxMFdUNVl2ejVycHZHN3ViZzQ?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Diljit Dosanjh's Delhi concert faces uncertainty as police cite security concerns - Gulf News",
+    "summary": "Diljit Dosanjh's Delhi concert faces uncertainty as police cite security concerns Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb29aYW9ZYTFVZTdETENhQlI3cTRHSTdqT2s0aHp5Smx5MDFyLW9Ha2tBRTBxdVh4djF0UXdoMkJvdFAyaVJ3SjhWVDR4NFdkZmZMaHZYei1FZGV6ZnhDWWZDX0syYnBwTnRQQUtjQ1Rrak9kbU1PV080OXhUN2RhR19PVm45VDRKTXV2dHd1ZDZ6Zl9tRlphSUNZNk5YZ05VMHh0WXR4TlNOUDVnQXVNRkYwLUQwZXhMLVNLb3VDYk1zRVFXVlE?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Hormuz stays shut until US accepts 7-day deal, says Araghchi; Rezaei, says Iran won't surrender enriched uranium - Gulf News",
+    "summary": "Hormuz stays shut until US accepts 7-day deal, says Araghchi; Rezaei, says Iran won't surrender enriched uranium Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2pEWk1raUpOWktKeVpjVmtFTnlBc1dneTVDMXE1amZRV3JWVm1YeThhQklNYnRGRkF4aVRQY3RnMmQxTE1ONkJtcVd0NU9xUlVGdFF0UWdEeFltb2R4TEpzZlU5RGdETnRCQlRwSU15V1d6X3diOXhSYnp3RlJEaU9rUXkwU1J2VTktM3Rfb1ZiOWtnd3FsbTNrS1JwZ2stN0R6QUFKMA?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "‘We have a job to finish’: Why did US Defence Secretary Hegseth secretly meet Netanyahu amid Iran war tensions? - Gulf News",
+    "summary": "‘We have a job to finish’: Why did US Defence Secretary Hegseth secretly meet Netanyahu amid Iran war tensions? Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaEZNcGJRaTJXQU9TeTllWWw3dDBRZ2NvbDZqcGI0WG9iYmFRZ3FweVZDWndWdGQ3NDN5eGFMRXU3R2xVcnZYQnRaVjFhYl82cEhrUjB5Y0R1LXljZF9OcGlHUmh3cm9QSWlKM2VyY0U5QTFmd19fd1JGSjdpNnFLeWx6N1dLUnRTQ1UwUkdfZ3NkTDIwbUhESjBtc3VvWjJsTzZ5ZFZjcGFXT09qWWRFU2QtRVFxc0hCenFKbVZuMnh0aC1JZ0FSTjh1SU0zNWg3NWRoRENwYUdoV1B3VzdJd2F5b1RUbnJYUmpn?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Russell Wilson, Ciara join QALO as co-owners and investors - Gulf News",
+    "summary": "Russell Wilson, Ciara join QALO as co-owners and investors Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWndLZ054RThEQ3VLX3RBOE1MSWU0eWdSOV9aWmQyQXdYX2VNVmp1aXJkR1A3cGZaYWhXNHdYc29JVG9xZXlVakRQbWNCUXZMQ01QYlA1YS1sT21ybDh0c3VZVkpQTURxeDFkYUZfcDF0c3pzd1RiTDdwWlN0akJFZnFtRFlHeXlieW9GdmpMRS1KdlhqQTVFY3RCbnI3YzZHZGc?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Will the US and Israel strike Iran again, or is it just rhetoric? 5 big questions - Gulf News",
+    "summary": "Will the US and Israel strike Iran again, or is it just rhetoric? 5 big questions Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUlqZnZRVVJ0ZGlCZlBLNVRvVmJFQ3I1b0Y0cUp6QXVQVnJ0OHdqa2h5RTF5dmsxLTlSdlU0MFJ4dlZULS1LbzlDcFp1T3QtcU8teG1zQnFsbnpNOWM2V3VZZzJxb2lQbUYzWEZ0VlUxMkVjT1RpTXNrdVFMZkdkT0N6MmNfWTN2MHZIMmJNRmlYOExLRkFESmpZOGNTeUJRZGFRWmNSUFZKUTZ0dHZHUzVET2FwT2c0TUloazZjX1Y?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "UAE launches $1m ‘100 Dreams’ initiative to back aspiring entrepreneurs - Gulf News",
+    "summary": "UAE launches $1m ‘100 Dreams’ initiative to back aspiring entrepreneurs Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlRoOVVmREQ5cmJPTWp4ZTNBMGtZWXR3ejZ1YmxJN3REaTIyekNRWm9jb1BhckZMU0wtZDdtaFNlUXpZdlNiUWRuVGtOS01lRElaWldVSEtINVR4MnVWYVBVQUM4VWE4Yk5pdWxhWUpOUDNnN1lLNERoUlAwNmlSYmpnM2l6b3FYelJDMU9UOENEMk4xelNfTXEzb05haGdFNmhEeEVhZHU?oc=5",
+    "date": "2026-10-15",
+    "lang": "en"
+  },
+  {
+    "title": "UAE VAT rules change staff expense claims: What businesses need to review - Gulf News",
+    "summary": "UAE VAT rules change staff expense claims: What businesses need to review Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjVZSlVOR1Bab1VubGlRNjZGeDNPWmVNSnRSNDlCXzk3bFk0U2dQTUt6dFlMVmY1QkpvWU1XMlVoQTN2MzluUVNxY01BYWtVb3JuYjFNU1dfQjl2X0dDTnJrXzd3eFFpanBCNGk1QS05LVAyVlliZUgzRFJhaHFKaTlsOTBMOExqLWtBUGZDaXFSZmVfZkRPQk9YSzF2VlNiUlJtbU9RWndXLUxjMjhoN1ZwYWYySDZHZkJRNGdTak0?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "UAE steps up fake Emiratisation crackdown as firms face fines of up to Dh500,000 - Gulf News",
+    "summary": "UAE steps up fake Emiratisation crackdown as firms face fines of up to Dh500,000 Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlJoV1V0WHR0TkwwclpZX215dUxvVE1QM2JUdnJ0OW5id3NMMzVENXdYaFdzZHcydUx6M0pjQkg0bWJiRHZoUkgyakFoS2JNc2RPd2lMNnFXNlZBNnI4SjBZRE1UY3QxOENra3RxbEozd3ZLX0pkM21weHgySURDazZOUVR3MTJrcGlEZVE2djlLUmVyckczdkpZU2MwbkpoVF9lLUNsYUpxNnlsYThNdC1adlNadFpHSkFpbFl30gHOAUFVX3lxTFBJWEppWWhRdWFZNno3bXhQazRxWk5OaDZsZ3lLVmRzUDFuS1AtSXFyX29Zc2gyTVMyazJXZG9Qdld5YzFnN01Kd2VnYUNhT19kVEVpYm9PeVVsclZOODZQc0xlSS1mU2dINEdWYnZjRzJHRUhaa05GNnE2Q0swc3JFaEU2YUY1YUZ5U2cxUFhyRno0bV8zNVp4MTh0RzNXOHF0Nms2RmtTWW5oeDFtYnVYdllqbmYyeklmTlV1NWZiUXFhdkpvZ1JneTJVMEN3?oc=5",
+    "date": "2026-09-23",
+    "lang": "en"
+  },
+  {
+    "title": "UAE eases e-invoicing rules: Businesses to now get more flexibility, time - Gulf News",
+    "summary": "UAE eases e-invoicing rules: Businesses to now get more flexibility, time Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk5JaUJYckJoTFo5YVVDdkhiU21yRGhWUmlGTWE2UTFRWnNMcFB3ZkFRb3FUMzk4YlJkNGl5dk9mYk44ck8yVThwVUxfT1Q0REwtdldkekFUdDJ5ZEd1S0s2QUNxcUNOWGdSS0oyM2V0Y0R0TEdiSHFqMTQ4UFEwc3RyZ3FROUJ3dmlEVERpWlgzSE1CelFIaVhUamZLbVUzVHg5UmlxUlZfU3FNN0U4WE9meDdjM1VyU1hxZ3Nn?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "UAE businesses required to switch to metric system from 11/11/11 - Gulf News",
+    "summary": "UAE businesses required to switch to metric system from 11/11/11 Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVBCalBRSFlsc2V0c3RNbEtKdDFGTnFKdVhhZDJWb2VhSjluRmlueC1rSmZKV25RTUM5bXgwS1lpYnQyOGgxRms0VGpxcHZ4b2tKTVNxbkUzbzZNOHY5VGg4Qk1sVHdCWVpjZV81NE5LckJlUWRMb3dKNGZObElsMG13QUcyZ3dZbGZDaHRFdHdyc2I4djF6cV94SkRoSVR6SlBR0gGzAUFVX3lxTE9ocnhTSTZQXzZtY0pjRnJ2ZjBFSW9aTWJGUGpqTU9OQlA5V0NOMVloRkUzU1NxWXZYajJ2MjBXZF96c2dKLTlxd3JWdm1lOXNBeVYzTVhxUDRwaURtMFlPOW9VQ29nN25MZlo5S1dhaGl5ZjdRbnpwc0xkVmU5aklvclAweHFWWk5lZGwyczg0Y3ppUXcyN3k5R0duaVNWY01tRFRndWVqQlhmV0hTSkpFMENR?oc=5",
+    "date": "2018-09-15",
+    "lang": "en"
+  },
+  {
+    "title": "UAE Corporate Tax: Registration mandatory for small businesses, even with losses - Gulf News",
+    "summary": "UAE Corporate Tax: Registration mandatory for small businesses, even with losses Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUJwTU84Rks4bDk5Q0VPNE91QXIyQ1BOdVp0U19vbEg0Tl81ZmJ4M2daUUVSVGpDdDRiNGZqT0J6eU1zVVYybGcwWEZ3UUlpY2x3azVRb0JrYzlQNHBGOU9TMFRMT04wRXpCekIzN0hwbDMweFFla1pQMHRINlpRZmhsY1ZCRmd6RVJKU2RHMUpMSDNIOGhnMEcwejVod21Jbjg1Z0syQU9RMlkwTUlzYlZoa2VvbmFMLUE0d0syVjBaRi1obEZBVDcwdGgxLWJBT1lMbw?oc=5",
+    "date": "2024-01-02",
+    "lang": "en"
+  },
+  {
+    "title": "UAE companies sign deals worth over $50 billion with Turkey - Gulf News",
+    "summary": "UAE companies sign deals worth over $50 billion with Turkey Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONm5FN3dhYmU4NHRScUUwdFNXUHh0M2NlVHdFLV8wN2hROXZPTDFHVzIzcVBFZ3VjeUw1a3Z6R0FTZ2dDSnNOdnJ3N2k4OHRFN3gyMzRDVDlXbHdldDU2azdaNnpHYnktUEFjTm1mZ1JKcEUzMTUwc25vemY1OUtKUkNkaVc4M1BwRE1aWjkxSExKUGRCZG05MWhYdGtlWHcxTDJRNU1ld9IBtwFBVV95cUxPQ0ZzYUQzZGRmSzFOSmNHLXRlSUVzOURKbE4wRTFYWEhtNFBuUTJIMHVfLW5UTURQTnMxeEYzZEZvSXo0VkxNVnE2bkJib0tPOWpTYV9Yd2tWemwwWXdGdlI1dVE5WTBwVjM2MUlybGU2eHRSb0h4T3ctUE1fWWdGSEtGbkFncTZVNDh5MkFEN2xYaFFFWGlUNDU3dVZSbkllNkR4Rm1LcjVNd05DVG1DMUR1bW12bmc?oc=5",
+    "date": "2023-07-19",
+    "lang": "en"
+  },
+  {
+    "title": "UAE, Israel sign CEPA trade agreement - Gulf News",
+    "summary": "UAE, Israel sign CEPA trade agreement Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnZQTUlJV2ZERzdyZEM4WmcwUjRKYW9lNWhTQmVmbDhiY0V4LU5zWUxyQkZPZjY1WEczMnN0OXNRamU2T2k4VE01bHYxd3VWbE9fZ2QxN3BVYmVseG9OTnpwSl84ZHBTT0pqd1pMVTliVVJnY0RGZmZFZTJERHZYUlN3OA?oc=5",
+    "date": "2022-05-31",
+    "lang": "en"
+  },
+  {
+    "title": "Tell Me Why fintech is powering the UAE’s economic transformation - Gulf News",
+    "summary": "Tell Me Why fintech is powering the UAE’s economic transformation Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkdWTmRwQnRrVTlZclhNa09oUGI3ZUQtMmJlRk03NUZBWVlXTE1hc3ZfbjdQOFpqeHN1c3d0aWd6dTRaemN0dndLY3pTQmZLR0ZYNFVfT0I5VWx5MXZCVUhVTDRPMkVqUTQxSzd3ak1lWkhfa0VmbF9xakRCWkFQd1hUSWxUUVZlZWFsSkZzX2ZQN0FWQWhmbkR5ZFRERzBqcmxMUDFaclhWUXZ4ZHI4b0VkLUV1Q1NfNXc?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "UAE small business owners keep dealing with same old teething problems - Gulf News",
+    "summary": "UAE small business owners keep dealing with same old teething problems Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbTFhQTBPdWtOTnY0cFdoeFlRb0gyNTh4ZlF3aGNibk9ka29jZHVqN1c2Y1BQaEdfM3dPZHNEcjBaa3lPOGM1Ym1OYmF1aTNpY0JjUGpCZmZXenp4VWtFeUdDSk5ucE1uOTVCZUpndnRiLThBWjVDbnFtQVRkY19aTmNGT0E3eVZ0Zy03QTA0OVpJb0NJdlp6eW5KcWNqdFpxbGVkbmFXZ0ZGVUZqdTBFWENuQmJLOHc?oc=5",
+    "date": "2021-08-02",
+    "lang": "en"
+  },
+  {
+    "title": "UAE PASS will be the only digital identity needed to access Dubai Government services - Gulf News",
+    "summary": "UAE PASS will be the only digital identity needed to access Dubai Government services Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnBOS25mNmowbE9QajhKSFFHQkR1c3FoVEt3MnJYMFRkbmJucWhWREV3OE0zak1BZ1VSQ2JmM2l3RzI1RVFrUHpINkpvbTdRQnRydDduZkdBZk5zeU1GMUFoMjlLZnU4TjBNcmFOenZmWC1EaVRzTzdFNjI1TkVLZjZ2aXV4QklyRzhRWnFJQVBOczhIUWNJRkdFaGxYb25VblAwdW95cld5cVN5eXZUZzRoekQ5bHZab3J6UGwyamNtLW0w?oc=5",
+    "date": "2020-05-16",
+    "lang": "en"
+  },
+  {
+    "title": "UAE-India’s planned ‘green corridor’ will fuel smoother customs process, higher trade flows under CEPA - Gulf News",
+    "summary": "UAE-India’s planned ‘green corridor’ will fuel smoother customs process, higher trade flows under CEPA Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWmZOcktJMkFrd05lMlJnUXFpYmhwRHhJaFY0NmY4N05oTGdDbG9TVjc1UmNack5nX3BxUnk5Q2ZsYVVwdlFhalJFdDVrVmQxal9ud3FxYW8tLXBKSTJwd2xzaVI4WlhNN2FodFZqR0FIYmFjNHdSS3E0aE1GbUY3ZlRLYjNMQmhONTZ2U05pU3Y3RUFHdzhpRnBhU0lFaTJvS1M5SFVfOVUxd2t2TEExcXk2Ti0tNGswajZCWEdfMnBiWmJmdWhuaUdXWU1WdWNSVjd1UmlB?oc=5",
+    "date": "2023-04-30",
+    "lang": "en"
+  },
+  {
+    "title": "UAE: What are the business activities that allow 100 per cent foreign ownership? All you need to know - Gulf News",
+    "summary": "UAE: What are the business activities that allow 100 per cent foreign ownership? All you need to know Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRnduMEVVcURJSzJwM01Ud29VbHpEbFRoZE9YdjEydGM4LWdHMHVuTHV6WUNlRGF4NVZzOXlMSW94UUJTOU1NMWVSNHNadnhFdGNDSFdoQU5MQm5fX2o3QVNKbWUyV2RUcGJvWWF3Z01iU0VjMmlua1pGMW1qOUVpakphbnVpMF9jalZ0SjVOQng0c1BVSk9DUEgyY2JEVVJNeUNVdUdna2tGdURpWWhWMkhSSEN0YkRwQnRJWEdGbVhlRzBPQUZkczJsVVhfTDd1WU1Oa3EzNkFMYjJGRXJ0YkpIQTRGa2hmV3A2QjR30gGAAkFVX3lxTE9TcURQWXpzamw4SkpDRHZKaHk0SUc5N21PSUpZdHpsWUJDSHFJMkhFZzN6SUFMTmVIakxvSHdrTHNhRmNNNDRBWlozQUFMVW95dUV2aEt0Zm5qS2Y4eVNESVlfMXcwX0Q3R2lBUXY5b25VUW1mMGJ6bmFjQU0zbHU1V3Y3U2VUODRFNGtlcFE2cU9YaEQ3MTU4bVR2UGw4a08yRl9tM00zaUx6RG5NdTc2Qm1VUzd0Ym5DWWFPbjlYajBmWEI4aHNUN1lFNGxadXp1Z3Mwb0lPRkpRNFZWVXRYQl9jX1lFVC1zLVRzLUNreGQzbmpLX1BYdmZhODRDUEI?oc=5",
+    "date": "2022-11-11",
+    "lang": "en"
+  },
+  {
+    "title": "UAE: 100% foreign ownership in UAE firms starts on June 1 - Gulf News",
+    "summary": "UAE: 100% foreign ownership in UAE firms starts on June 1 Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXVweExkb1ZkT2ZtdnB3Q3JBZENmZEc3cy1lMmxDQVpYeGpUNDNLRUdfZ1E2T0xLNEw5dFBTdDRVWGg2VXNPaEo0VUtoYXNyRUpjTmNqMjIwRmRNQVUzem5BTVZwaFY4ZWJaSDlfQWZFbUptRTdfSVNtOHBGLWFKb0NqRkhUSE1ZeFlOaGlxZWZNWW9ObDhFZE1UcElIWHdnaWg00gGzAUFVX3lxTFA1SVJTMzljUjNzcVVjZktkZEpra1FsSUlqcWxGdUJpZ3g0LXJSbko4TjZTS2gtbWNieUxKbnl0YzN6dGwzVVpGQXdsdURVV3BpZHA4T2g1UFVGR0hlbUNmQW8zcmlrV1pMVm9jQU1DLTN5cm1VNW9GbUZOMEYyWHBFZklka25vMC0xOV9hWHIyLVZSNVNmNlN4ZHVoSFlOYXU0QzF1elpwa1lRby1FYlZvQzRj?oc=5",
+    "date": "2021-05-19",
+    "lang": "en"
+  },
+  {
+    "title": "16 companies in UAE race ahead with Emiratisation goals - Gulf News",
+    "summary": "16 companies in UAE race ahead with Emiratisation goals Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTFCMGZMTFlwNTZTNmVYSk5mSEc5SXkwUHlHYS1qOGU3UThFWGZVTGlfN3RFcWNtZFFTbm5EZzFnUGJWdUl1OVRyV01oRjRoMjdIcGw4Szl4VzVQTGZ4RWtqNE95bFh1T2ZjQ1Jlbk9hOFNBLUEzbUNsTDVpdExFNHVuZ3BUY0NEYmh6TXJEQW9uNjBQek5ETzZOMnjSAawBQVVfeXFMTUZKdk1jTG9yeDQ0cFhJS0hRVXBvMTFSMjJsY1NrZmtsVXpSZmdWWmpZUWF2QWJ6YUI0X2x6U1d6RUtVUE1mWUY1V2daNHlnYlRhUDNUSXUycXB4UWpmT211ZjRLT2dHY2JHMmJjRU9BcHRKbllKWGNNX2RlRUt5V2tRZWl5aXNQeUttTndfQ0h4UEFUVHk1LW43aDhlUnhVT083NVBrVkF1MEdPbQ?oc=5",
+    "date": "2022-07-13",
     "lang": "en"
   },
   {
@@ -98,234 +770,38 @@
     "lang": "en"
   },
   {
-    "title": "Verify the Current VAT Registration Status of Any Business - هيئة الزكاة والضريبة والجمارك",
-    "summary": "Verify the Current VAT Registration Status of Any Business هيئة الزكاة والضريبة والجمارك",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwYURRenJmTnQ0NVNDaTVRRnZFdjY1RlZUWnlnYS1iY3lTX3VXbFpwdk04ZWJONnlRb2I4bHI3MlRWbWhwVTFhXzEzOTJnSkRhWGpEVHhvaE1BeDFfaHdmZHlFMnVFQkdlYjhF?oc=5",
-    "date": "2026-10-18",
+    "title": "Saudi Arabia’s Worst-Case Iran Scenario Hasn’t Even Begun - Middle East Forum",
+    "summary": "Saudi Arabia’s Worst-Case Iran Scenario Hasn’t Even Begun Middle East Forum",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVRQbUEycThXZVNoZUdFMl9Za3BXTzdmbldFRWltT2dXTWF3LUlQRmxQU0ZYZVN6Skxlck04SUw3YzRicWZEX19kSVYzdHJ4U08yVFNQbnNQQk1PRklPdV9lcU1NN1MydmRvMkRIR0ZNYVZ5b184dFlxaDlha1FwMnNvZDBlMDZ5Z0dDVUtBYkRoM1Vy?oc=5",
+    "date": "2026-10-12",
     "lang": "en"
   },
   {
-    "title": "Zakat, Tax and Customs Authority - هيئة الزكاة والضريبة والجمارك",
-    "summary": "Zakat, Tax and Customs Authority هيئة الزكاة والضريبة والجمارك",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50RkdOdjkzMXlyR1E0bFJsaklTekJHVUgtYlVaQ0JYUC02Mm9wUGRQWkZzTWFxRmpDQVNGeHFncHFsZG9Eb19SV082cDJaTFVXUmd2cQ?oc=5",
-    "date": "2026-10-20",
+    "title": "Saudi Arabia’s SPARK, Dalipal sign $2.1bn energy equipment manufacturing deal - Arab News",
+    "summary": "Saudi Arabia’s SPARK, Dalipal sign $2.1bn energy equipment manufacturing deal Arab News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTjdNM3R4WmZUdG1OQk9PeXdmUjhaNUFTNHBxaWZEb19nb3NLRU5reF95dkZaSngzaTloNUtBV21QTUZCMzNNZjdybWdjN1hCVDJXZ0x5MkZOUG1Wa3dBNjEyU2pOMEVOQlB3QTN3NDRHNG96bE5oNkNsbXpkZWJuOEp1RThOWkt6T3lNTEF2ZXd4NzhEakZ3eXItR0c3eEhwZzVXcDd4azgtMjFoMF9fVEZtSGJqdw?oc=5",
+    "date": "2026-10-14",
     "lang": "en"
   },
   {
-    "title": "Login - Zakat, Tax and Customs Authority - هيئة الزكاة والضريبة والجمارك",
-    "summary": "Login - Zakat, Tax and Customs Authority هيئة الزكاة والضريبة والجمارك",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51SWRiczVuOFRabGlGNGVRbk5yZl8wTnVLSHhRVGNGcXV5YWpST0dLZnkxMzg0QTlCcjZLVlA2QUxjckZQb3l1NC0wRHN3NWtDZHI3T2JOVlZWdw?oc=5",
-    "date": "2026-10-20",
+    "title": "Deadly airport attacks spark debate about Saudi warning system - The Arab Weekly",
+    "summary": "Deadly airport attacks spark debate about Saudi warning system The Arab Weekly",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONTNSMnZaOE9NY3dtclhSS0hKREhKYWNDMmNDYjFfRERtQldud0ZxbXU1ZEdnUE1pRTZSUTAwc2wwV2Z4RXM1a3BvNnpzenhRenJkQ2FyallBNEtlWjNmNXFCM2dVcHpYWWtYa0JqZ2I5c2RocEJNQTJNMzhYUHlIMHdlbTdKdFZVbFJxZE9CSm5NZmE2enc?oc=5",
+    "date": "2026-10-13",
     "lang": "en"
   },
   {
-    "title": "Zakat, Tax and Customs Services - هيئة الزكاة والضريبة والجمارك",
-    "summary": "Zakat, Tax and Customs Services هيئة الزكاة والضريبة والجمارك",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43RDh6Nkttbmc2dEZVYm1yY3VWZG91em9la3Ewa0J0N2tQTi1fYndrNVlCT1U4VjNVejY5YlFTeC1OeHUySmJSaWkwby1PWWlzZkxaSnpTZGwtY21tWWZsY213?oc=5",
-    "date": "2021-08-04",
+    "title": "SPARK and Dalipal Sign 25-Year Lease for $2.1B Saudi Manufacturing Base - News and Statistics - IndexBox",
+    "summary": "SPARK and Dalipal Sign 25-Year Lease for $2.1B Saudi Manufacturing Base - News and Statistics IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkF5eWRja05jck9HM3pNUGh3LVE0Zl96aHYybnlLOEFmZW9Cc1hxeWR0dTZsc2lfSWlCZ2g1NlY1NnE3d3hIdGxITE1xMFRXbUtqQVM4NUtnZ3NXQVNkVlNhQ3RhOGp2Y0RaNUtrMGZzdGRxX0QyX2pCUWR1SnlhM3hFMGVQNHFaSGNJbEpBZTlTMDZVVGR5Q2FlZkJrcDJzMWwxTGVNZw?oc=5",
+    "date": "2026-10-13",
     "lang": "en"
   },
   {
-    "title": "Saudi Standard Classification of Occupations - الهيئة العامة للإحصاء - الهيئة العامة للاحصاء",
-    "summary": "Saudi Standard Classification of Occupations - الهيئة العامة للإحصاء الهيئة العامة للاحصاء",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQWlplXzlaYjlGa3ExdE9yWEUxNG8wVGdwUGlVdjFBd1c1eDRsWmx2cS05cjF5S0RWUFdUcHF5bjRyeFMxTkJGUDF0LU1HUEJfcTBqS3Zn?oc=5",
-    "date": "2025-04-15",
-    "lang": "en"
-  },
-  {
-    "title": "GASTAT: Saudi Workers Monthly Average Wage in Four Sectors - الهيئة العامة للإحصاء - الهيئة العامة للاحصاء",
-    "summary": "GASTAT: Saudi Workers Monthly Average Wage in Four Sectors - الهيئة العامة للإحصاء الهيئة العامة للاحصاء",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUktVeFNZSzRobnFXMmRrTTZ4NFg3dmJXaHZQYmN3eS0yUlFIUlJDZnFKdzFpTlZPbXk1OE9MWVhmcEpzdGg4RUhiMjk2S0sxRnlNR0tNYmIxSkl4bVVWM2ZIcl9mZFEyVUU5ZFVKMkQzYUJlVHlDejFRY0tEYUUxaExRdjFTVTFZSkt0STRaZmdfamx0SXhLdVZkdFZtdmM?oc=5",
-    "date": "2025-01-01",
-    "lang": "en"
-  },
-  {
-    "title": "Total expenditure on research and development in Saudi Arabia reaches 14.5 billion in 2021 - Stats.gov.sa",
-    "summary": "Total expenditure on research and development in Saudi Arabia reaches 14.5 billion in 2021 Stats.gov.sa",
-    "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQRmQ2LWxkaklDcHByNER1X2ZpRHlNcXk4TG9pUXkyLVdvbEw4UzRKWnhrZkxPNFNGUFNzNWRsem9TU21rc3hBRl95UlU1WjMyUVR6TzZEdGJiTm9tMmdOMHNaXzFULUVqTXctZkstWXJSVnJDdGV1dXd4ZEc2ejlrVDgxMWZMUGxwRHVId0wyb1RGQkY3MUtRUkE3TWVGMjdyOFFRQlNQQ2FTcE5aVEpkUGVpckFDUnduS0p6eDBjdlE3UnJhakQ5M1ZEckF3OXpQUmpVaFBYOHR4M0piWEZlVHhKcURFUnoyM1h2bHp4Y0x4NDhsQlJzZ0pwc0tyY3BvT1RvWVpET25HeXJPUjVjVTBUcU9DVHJfcjRDY19TQXJJUVFVUjNCWU1aZWhSVGJGZDlyMzJhd2gtcjloOVZwanlnREVZRTRVa2hnVzBsdC1YX0cxSGRvMWgtX3Jnd3RLVFJiT1ZtQVYzRmM1Mk9Cc24yQWU1OVVuU0FVV3hlNzM?oc=5",
-    "date": "2026-06-10",
-    "lang": "en"
-  },
-  {
-    "title": "E-Commerce Saudi Arabia 2025: Market Size and Growth - vision2030.ai",
-    "summary": "E-Commerce Saudi Arabia 2025: Market Size and Growth vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wcHNmZGtQMDFEaXFKbjRtR3YxLTRTbDUzYjhtVzUyWkF4bEUzRzRGdm96MndVelR4TF9oV21odlBqcE1nYmJjXzNCLUwzZ3Y1UC1YX1FCRzNjSC1LZDhEYVZqUTYyU1lfd2pOOHZZaEl0QQ?oc=5",
-    "date": "2026-05-06",
-    "lang": "en"
-  },
-  {
-    "title": "Amazon closes warehouses and suspends deliveries across Abu Dhabi - Business Insider",
-    "summary": "Amazon closes warehouses and suspends deliveries across Abu Dhabi Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkVHLXBBR1N3dGFlVHpCTFZaWWxnNGZnWHBFRlplMkhVdXRPZWVHcUlROWFrdnZhS3lUbl9YSUc5UG1LS2c3WkFNalJTM2ZuUG1ndlZIMXdWY2NRMEtvT2ZsbTNoYWlDUWJUWm4wQ0xSdlZBbHZXcms3NUw3eDFDNW5LZ0kzUVVMRS1nZ3FrOEdIX0d6RGd6SnhEOTlqV3VtWkM1TkZJNElxSS1GQmc?oc=5",
-    "date": "2026-03-02",
-    "lang": "en"
-  },
-  {
-    "title": "Free delivery drives shopping decisions in Saudi Arabia - jawlah.co",
-    "summary": "Free delivery drives shopping decisions in Saudi Arabia jawlah.co",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5hYU1ESW1fMkk0VndvT2xnRUpES21Cd3JIX3Y2TjB3aENzN1BlTV9kTzF4cHZiTThCV0pTM3V2cw?oc=5",
-    "date": "2026-07-04",
-    "lang": "en"
-  },
-  {
-    "title": "Samsung and Amazon Deepen Partnership to Deliver Seamless Shopping Experiences in UAE and Saudi Arabia - CX Today",
-    "summary": "Samsung and Amazon Deepen Partnership to Deliver Seamless Shopping Experiences in UAE and Saudi Arabia CX Today",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFlOQkFFZWtxQjU3OUJZTmdGN1BlQk5pTmhWclVWcGo2bTJ1bTJZdHM3dDZCcm4xYlk2NWZZSkd3OUJFVGxTWlA2RlNoZUx0S0pMZW9iVTdkSkxTRzA2WmVpckRWQzB2ZUVqV0I2RlNiYkFhVVlWM3Blb3ZoZXlnWnp0bU1TbGt3Wkp5c2RQSkxnVTg3RHUwM1Z2dWtFVlYya0VaemNCSm9HR2JwMW5rbUVVV0JDSlJVSlE4OVNpQQ?oc=5",
-    "date": "2025-12-11",
-    "lang": "en"
-  },
-  {
-    "title": "Top 10 Best eCommerce Companies in Saudi Arabia - ClickPost",
-    "summary": "Top 10 Best eCommerce Companies in Saudi Arabia ClickPost",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94LTg0Sl9GM0VRU0VBLTRhZ3NnWUl3Zkw4ZXNyMnhCXzlVRE5RbDcyWlF5eV81eGlWRnlSbU9qRjI3Z1RUSUZrSC0ySVZucmJtZWFiMUo1bUFzODBRclpTYzB4eVVhRXctcjVIRlJFZTlUNFJRa2JKR3Vn?oc=5",
-    "date": "2026-09-24",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi E-commerce Companies | Market Leaders, Growth & Digital Retail Landscape - vision2030.ai",
-    "summary": "Saudi E-commerce Companies | Market Leaders, Growth & Digital Retail Landscape vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZkJkM1FnWmgtaGpTME1JVzExZ3pqUTc1UFpGYmRXNjRzU0toc2t5NlhyZ1RxN0hIempqczdEd0hNUENES2NBTWRneENCMmE5c256WjZpSWNjdkJxcGtHV1pDNUFSRFk4MHJHVkd3?oc=5",
-    "date": "2026-02-23",
-    "lang": "en"
-  },
-  {
-    "title": "Amazon launches Saudi Arabia shopping site despite CEO's dispute with kingdom - Reuters",
-    "summary": "Amazon launches Saudi Arabia shopping site despite CEO's dispute with kingdom Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdDRWMm12X2poV3c4TGpDSC1ERWJDcXdJaHhQTXV0d2RCRlI3VzZqRERkUmJmWjlKNnJ4bEx5N0Q0WnQ0OUdOT1IxMG9PV19KLWN1N0ktSlhkeU1EVmJYVjNfSzEwT1hZT0ZsS3d5RS02VXRXT2ZNQ0Y5Z3Y5T1VIRjV3QWhoS3J1OS1MOXk0eFZwVDhUN2ExZm5vU0ljcXJ3cWd0Q2FBazItTmQxajZhSzhBZEMyak1KSHE0ZTFRcW1xXzRNWk4wWUtKYzQ?oc=5",
-    "date": "2020-06-17",
-    "lang": "en"
-  },
-  {
-    "title": "Amazon Launches in Saudi Arabia - Marketplace Pulse",
-    "summary": "Amazon Launches in Saudi Arabia Marketplace Pulse",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwNGRJbXhEV05TVXA5UHpQWGswMEFJaERLS0JPSjhGOVE5RHZWbHFQRFB1bzdrSjl1Q2wyX3dVQ1RYd1pDTUZVMEFqLTVvVmJNaC1Kb2g4OFlpa2IycHA2WnVkY21wdzhQaTktNXVOa0tvVGVXa1hNZzExcHE5Zw?oc=5",
-    "date": "2020-06-17",
-    "lang": "en"
-  },
-  {
-    "title": "How Saudi female labor force participation in e-commerce is gaining momentum - Arab News",
-    "summary": "How Saudi female labor force participation in e-commerce is gaining momentum Arab News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQW1UQ2xlT2ZSN1pYXzdxM2hsV2s1amtDcVgwNDdQMU5LOE9ucXVYNDlBdWJ2QnZaMS1DVHNTSTVtN2VWaGQ5UlduOTlscEEwTkpsUTFIdTltRHpJOFZJZk45UWNnbkFqMGw0UFJNUTk2TVdlT0NJaDdWY2pDS042cDNlUXVNa1RaazM5eDAtbkV0RzJqYk13OVN5YmpKcWNEUDdwbVFYWG5lTWtvSzRYREo4dlhVLU1RVGc?oc=5",
-    "date": "2022-05-14",
-    "lang": "en"
-  },
-  {
-    "title": "How AI is rewriting the e-commerce landscape in Saudi Arabia in 2025 - jawlah.co",
-    "summary": "How AI is rewriting the e-commerce landscape in Saudi Arabia in 2025 jawlah.co",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5FN0RTcmJRTGl4TWpYcVFCRGlTNFoxTWxrVXJwQ00wa1ZmODl5OXpNVm1BNXNfZFhQRV9vcFIzTQ?oc=5",
-    "date": "2025-12-30",
-    "lang": "en"
-  },
-  {
-    "title": "Noon.com Triggers Saudi E-Commerce Race - The Business of Fashion",
-    "summary": "Noon.com Triggers Saudi E-Commerce Race The Business of Fashion",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUdFNldfTzNHOHBXd3QwcGktRkpLQkFyM2VWOHR4ZHZWTmJCUGVSVlZMTHEtalFxUGtia3FTa1RjcDBFZDFUeVR4WWNPUTlMTjBLc3dsYmNkT3RBWG9ncHU3cm04UHF0Rks4VGQ3dGwtUVNJS0g0d3pBenJYeU5MNm1tcjV6V2pLQTg3aWdHbnlaLVBBQTF0SlZlRjBsdFFSb2M2ZnYyNEhCZGNtVk1nRmRNTEFGR1E?oc=5",
-    "date": "2017-10-15",
-    "lang": "en"
-  },
-  {
-    "title": "Prime Day 2024: Transforming E-Commerce In Saudi Arabia - Construction Business News Middle East",
-    "summary": "Prime Day 2024: Transforming E-Commerce In Saudi Arabia Construction Business News Middle East",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55LXJUaDk5aXZJenFBdlFhSFg3dmM4YzlJSFJsZkRkSjc3S1VGeTJLcXdwbXlkOUpDSXpOb3FmNUtPbjNNN0RyZEM4VWYwNEkycjhMX0ZlZDA5TEIwcncxNHNxd0g4SzMxaTFj?oc=5",
-    "date": "2024-07-15",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Arabia Ecommerce Market Report and Company Analysis - GlobeNewswire",
-    "summary": "Saudi Arabia Ecommerce Market Report and Company Analysis GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNUGxOc0ZRX28xcmVleTIybFhqM1dFVUxwT3haN1NCZTI5a3k5QWM3RTI5dXJkMXJZRWhGc2c4My1iMU45alZEQ1lXT1pFWmF2WDZ1YllxOVZLcDVCa1hMOER0UDlNei1mNmhpeUhVUFB2OVZEODAwd2kwdkVWUzRIMXJHWGlLdFN2WmcwbE84VUxoT0FteG9vZF9RcXBNbzhlQXFwcWRQcDhRbXBlT0JJeHJDQV9Mbm5ua0dLVWtESS1kdnk5ajNOck10dmdhQnFQTi1VNS1aN1hFc2NMZ3c4SXp3MlhsbG9Jb2pucmZ6QndsUXRDYmJBRkxVdHBYX2VYMlM0OFkxVVEyN2dQMnFOY2tHYlBnSDloMUV0SDBFU1ZtM08yUHYtOHA0LVRENlZ1TlFZOWlBcHM4WmJtOU1ETmtnRDJMYUlITGtzVV9Db0p0Zw?oc=5",
-    "date": "2025-04-21",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Retail Investment | E-Commerce & Consumer Guide - vision2030.ai",
-    "summary": "Saudi Retail Investment | E-Commerce & Consumer Guide vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnVGFPVlZ6eVNFb0JTeGJKVUU5c2N2cVhJVTJXUjlpelk2Q0RZbzVuT3dtZmhpaG1ZcGROUk1peHZ5TVZ5Tzl5b1lEclJpM3hVa2c?oc=5",
-    "date": "2026-03-30",
-    "lang": "en"
-  },
-  {
-    "title": "Amazon Fuels Saudi Arabia’s Booming Tech Startup Sector - US Saudi Business Council",
-    "summary": "Amazon Fuels Saudi Arabia’s Booming Tech Startup Sector US Saudi Business Council",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUDZHMWJPajJ5VENNNGRBYTE4ZHdGTGEzbldMSGR0X3RNcjRnaUpEZmZ1YmZib1R3dGNJcnItNGQ3dVNPV21weHl2V0MtUmZlbU9haWJ2S3JVdWhpc0lfdERMNTRRbmxBd1hrT1RCa2htRFFSVUc0M2pvWl9CZ3RzSg?oc=5",
-    "date": "2021-08-03",
-    "lang": "en"
-  },
-  {
-    "title": "Amazon’s Saudi Arabia eCommerce Site Debuts - PYMNTS.com",
-    "summary": "Amazon’s Saudi Arabia eCommerce Site Debuts PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXFiRmYyN2RBeU9XTHJWenVTNV9hYmhtQlYyZ2JjTXdBazIzUjg5N3lTaVhBN2l6U3R3WHpUM2hUNzc0SFlGSTgyTEZVcGVUY0xUeEZ3RWF0ZC0tY3ZmTk5oVkNxZWVCNXBpMWtjOGtOc1ZrNHpEOXRJNjB5Q0JoZ1h4WQ?oc=5",
-    "date": "2020-06-17",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Retail & E-Commerce - vision2030.ai",
-    "summary": "Saudi Retail & E-Commerce vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EOUk2S1dyek1JcUlPTmpGN1d6UlZEYkktOG0ta2x1dmh1OXI2Z2FWbGJ0VDd1NDZhRU1HVXROMjBIOVNveVdEay0tQnlEZw?oc=5",
-    "date": "2026-03-29",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Arabia Builds Smart Warehouses to Meet Booming eCommerce Demand - PYMNTS.com",
-    "summary": "Saudi Arabia Builds Smart Warehouses to Meet Booming eCommerce Demand PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXRvQmwwT21ER292WERHZ3BPWEdTcnJYSE14cE5raXNvY2JxaE1aOVdJSkc0UE5sR3BIOUVMTkhJM3k2QXlCSVVJVXFMc3ZTOHkwRFNEdmVVTENOUGNsZlNWcjlSNkF3WFc2OUZWMHVYOUdwZGpqeHpZWmp2ZW9sSVE1YnhkbE5tcmJuUFpRaVRkQ3JDR1FrOF90UFhVZ1FxLWR0bVp3TVhCeUVITVRpUEpnQ0k?oc=5",
-    "date": "2023-02-07",
-    "lang": "en"
-  },
-  {
-    "title": "Salasa Raises $30M to Build AI-Driven Logistics for E-Commerce in Saudi Arabia - waya.media",
-    "summary": "Salasa Raises $30M to Build AI-Driven Logistics for E-Commerce in Saudi Arabia waya.media",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnVtUTJTSmZFWHkxNGp1aC1uZGY0dUhUcmFtcm9mMVdZUHVOUVRqcmg4STRDSEg3bW85WVZrZFY5SzZ1N1J1OTFQaW50ZU9yQ1JQRkNmSGZvd2pJUnBXQV9hNWRhRjVjYzRtUnZ2WU5vMTdrS0NHTkRGeWdHMXlZUG9HMzlDYktaTjA0b3VVSnE4bVo2OHJoNnExQkl4dw?oc=5",
-    "date": "2025-08-04",
-    "lang": "en"
-  },
-  {
-    "title": "Under Patronage of Minister of Energy, SPARK Signs Agreement to Develop Ready-Built Industrial Facilities - وكالة الأنباء السعودية",
-    "summary": "Under Patronage of Minister of Energy, SPARK Signs Agreement to Develop Ready-Built Industrial Facilities وكالة الأنباء السعودية",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1fYzBhQkNKSGZIRTVlMzZsZ0JDQnNXeVZ1blFoR3FOZW85LXdXaEZpUDc3QkktTHV1X2V1V3dVQVhiaDdQ?oc=5",
-    "date": "2026-07-11",
-    "lang": "en"
-  },
-  {
-    "title": "Investing in SPARK | Saudi Energy Industrial City - vision2030.ai",
-    "summary": "Investing in SPARK | Saudi Energy Industrial City vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01YV9TZjd5eGh5SW5wUG1iT2tZQldieXNDbC16V1g2QjMwU2I2NDVCZ3hvR19oYW1YcWtabm5fY2t5RGhXdzJUWTZ0Y3RpbjdxRnJUdDhyQXM?oc=5",
-    "date": "2026-02-23",
-    "lang": "en"
-  },
-  {
-    "title": "Tracing King Salman Energy Park: Saudi Arabia’s Drive for Localisation of Energy Supply Chain - Mepei",
-    "summary": "Tracing King Salman Energy Park: Saudi Arabia’s Drive for Localisation of Energy Supply Chain Mepei",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWZjYzcxd29TOXpoWGt6LWg1WkVmUGpoYnBnLUV0ODZ5UTZvU0RPbUhuYURUR2ZrWXhxY3hVRXlKU1JxcnBOeXpEY3dlRkxhVEdOOE5RVHFuNTJLUTlkTEwxNjBMcDc0RVRucFJJWXZLcjI3SHZKSm5RSFpQOHpUdjhXck5VS3N6cHJUZXFHdDU4TnlWaUtYOTROT0F3UmZETHpTR1QxZm9OTkIxSVY0?oc=5",
-    "date": "2025-12-14",
-    "lang": "en"
-  },
-  {
-    "title": "Baker Hughes Breaks Ground on its Oilfield Services Regional Hub at SPARK in Saudi Arabia - Baker Hughes",
-    "summary": "Baker Hughes Breaks Ground on its Oilfield Services Regional Hub at SPARK in Saudi Arabia Baker Hughes",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzRkS0NDUDFxb1JjZGd1Ny13TnJNMTJndmplMVFOc1NHOXhaNDA1U09feEI2WWtpSGNqRm8wcU5sVGlJcjV3UmxTQmRkVGRfYmEyV29zUXZ6aUlYRDgzWTZFaWFzeFRJcHl6S0ZwRkdMNjhJdDlDRVV1ei1lSk1nQTFsQ21IVE14Nnlwb2xWcGZ1Zmx2Z05VQU81ei0zVVJZd3NxWkNLWjhya0VvRk1haWJYVEcwd005TXVwbXp3?oc=5",
-    "date": "2021-10-25",
-    "lang": "en"
-  },
-  {
-    "title": "SPARK: King Salman Energy Park — Saudi Industrial Zone Guide - vision2030.ai",
-    "summary": "SPARK: King Salman Energy Park — Saudi Industrial Zone Guide vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03aTlmU1I0ZTRYN3A4N3Z5RjI0U2cwSUJNVDN6MkQ1b3hvWmx5TkNYYjVzdUFUVUZoOEIxcDhvY3BQaG53dHp0Rmd1MGdDVzdlN1I3M0dkb1FCMHg1UmxyTmNvM3g2bkhUOTNj?oc=5",
-    "date": "2026-03-16",
-    "lang": "en"
-  },
-  {
-    "title": "King Salman Energy Park (SPARK): the integrated energy gateway - Energy Connects",
-    "summary": "King Salman Energy Park (SPARK): the integrated energy gateway Energy Connects",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3BpdWQwZHRUVzJvTlA4eWNaYVBqaUpxSHo2UUt4VTB2TGp4bUVqVVZfelpRb3JqNzZReFk2YTI2Y2FWeTFwcmdjZzhPQTlZczlINTJoSFZBS21VZ2RRN1V6eE1LRnJ2a1RWTXZ0a3VueUpubm5IUG1CUXBoY1NkakJUWENGZjExOG9KZnB3S1NrVnpTR2V4VlR6YXpWTGZvQVRhZElWU0Z6TVVHOVFVQ0tOdmJYZDJ2S1FoVnpqRVhQTmhzbHZNbm5HLWE?oc=5",
-    "date": "2025-12-08",
-    "lang": "en"
-  },
-  {
-    "title": "SPARK attracts over 60 investors with $3bn in investment - Arab News",
-    "summary": "SPARK attracts over 60 investors with $3bn in investment Arab News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0xMTTh2Y1RKNGpnYzRQTjVSQ1dmYktUa1Eta2UxQzFtLWk4WVJaSVdVY3MzLU90Z1ZnN1Y2MU9VSkpsXzlNcXQ0OXExLUdZVlNrazZLV0s2TWR6QnRaRG40d0RuV0FXaHp3MUFnWEk4Y0k5clZRWFZENFFUZG9RendKMmZUQTFTdEU2YUZwV1otQnJRZDVJcnNhVUJBUQ?oc=5",
-    "date": "2024-09-29",
+    "title": "Israelis in Saudi after attempted hijacking spark normalization debate - Semafor",
+    "summary": "Israelis in Saudi after attempted hijacking spark normalization debate Semafor",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1BRdHRQclliTUVSRXMxZjNCZXdNaUJySy00a3UzaWllS3lmT2pyRlpNQVpXWFMtOFhIRlRYaExTZHNTTGlSWFFlVjUzcThRWE51anJZS3ZqRTZtdWtrcXkxdktmRDNzUFRESlZaS0NUTmN4b3BJQVFLNkpZV3BQZDRFbFZ4c01GRGx2S2VmNWhpZXQ3aC1OVVZOb0U0XzMyZnd4NXNyTUhwenphNlZja1d6RQ?oc=5",
+    "date": "2026-10-01",
     "lang": "en"
   },
   {
@@ -336,227 +812,486 @@
     "lang": "en"
   },
   {
-    "title": "King Salman Energy Park and Hutchison Ports launch KSA JV - Energy Digital",
-    "summary": "King Salman Energy Park and Hutchison Ports launch KSA JV Energy Digital",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnU5b082cXhzZkZmSi1zbzZPVkVtNHF3d3ExcjJCWG96QUFXNlJjVHVVSXlvSWJKMkJUc3EzVTN3aFBCMTczc1lKcFNZT3o2WHNMQldrYnR3cDBRdlluTWFZX1p0T2ZBN202SHpYbmxGRE9zVzF1NnU1UTMyQVlkaHY3QlFRb2N0YWtGWG03SFRpWGw0aFd3bV9Pbw?oc=5",
-    "date": "2021-09-16",
+    "title": "Saudi Arabia v Qatar: a Gulf classico that could light the fire! - Goal.com",
+    "summary": "Saudi Arabia v Qatar: a Gulf classico that could light the fire! Goal.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGltbThLcnR6SnY0Tk04eFV5RkN1VjlxbGNmdEdSNy1Lc1E4WUhuYVpSZ0h1Rk5TLU9FQVJna3FsVlYxMER4V2pZY1lrWUR1dkhzcWZvVDFGZ2dEanhsWnhTTE15aWhrVElKa0djamE5cHdPLXhycVpESDJQYUNXbnJBUFdPWGtYb3dTMWFJZ3Y4ZWFXNktBRHBLUVlHdG1reWgtck0zTkxJcnhYcUNuUnl3?oc=5",
+    "date": "2026-10-01",
     "lang": "en"
   },
   {
-    "title": "Saudi Arabia begins work on SPARK global energy hub project - Power Technology",
-    "summary": "Saudi Arabia begins work on SPARK global energy hub project Power Technology",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CS2htVjFETjdLSzlVcFctT1o1Vy1rRDFTTGVwQ3FZemM5Y2hMSWlQZVU3TGs1NXF2N25BaGpFdFFKMDFYRThqRjRuNENZcHpXRVNrYkNiVWU4RGd4cHR1Mkk5QnZqOVhULUlCVW4ya2FKSi1ia2VwTg?oc=5",
-    "date": "2018-12-12",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Arabia’s energy park mega-project - Saif AL QAHTANI - The Energy Year",
-    "summary": "Saudi Arabia’s energy park mega-project - Saif AL QAHTANI The Energy Year",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oc0ltQk9zemZQbms4cGkzdzZZWm0zTG5KSGwtbTl6ZGVXck1XRUJkTURoSFlsMmhYMlZJenZmOUpZQ0lDaVJVUmFDSmk1cUpCd3FKbk4wVUIxTVZHc05aV3UxNEtveGI2aWp4OHNmSXh1VXN3UGpQMGxhWDFyVnM?oc=5",
-    "date": "2023-07-31",
-    "lang": "en"
-  },
-  {
-    "title": "Hanwha Power Systems expands operations in Saudi Arabia - Hanwha Group",
-    "summary": "Hanwha Power Systems expands operations in Saudi Arabia Hanwha Group",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWW81bExzQk9TWktnWXB0c2hBeVIyWVo2blZJWjNQYUtGYTVhT2JvM0VqeUJlV0N3U0F3Z0h2aHNRbVFEbnVrdXJyMjloSFVabUpHaUtzbTNBdHhLY3YwNGVUd1h4OWZvMXZPdFpDSFR0bWQ4RHVGbHhrUm9tYVRiX0xWQmFQQXlMSUhvUWdaQ3dzejZNdlhaZlZhT2lGUGlkYkZKc0lCQk9mNGJEQWV3SzRvOWhfdkhjNGlYdVBfa3VfZGw0SDFrYVY4bVNlMmwzYmx4cklXWDJwUlFoM093RFBSMFZ5c294UFhHdzllU2RVRXVFb3lYV0VKcEtKWFdud2F6bnRjSi1GcWFCNGVrVDdLUQ?oc=5",
-    "date": "2025-11-05",
-    "lang": "en"
-  },
-  {
-    "title": "S. Arabia set to open Logistics Zone of SPARK in 2024 - chinadailyhk",
-    "summary": "S. Arabia set to open Logistics Zone of SPARK in 2024 chinadailyhk",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zbGJxVlhackQyVzdkdGZtLTk3US1JQ0tQbEMyXy10SXBGQXVHeFJEQXJXQ0VoRDhiWDlpRmUtZ3hWcXVUQVVWM3FNYWRTcXhzNElCNEI4QjJadw?oc=5",
-    "date": "2023-08-30",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Arabia breaks ground on energy park - MEED",
-    "summary": "Saudi Arabia breaks ground on energy park MEED",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wM1FLaUpHNXhTYm5qNmp2R0xROTRsb0lOQlo1WVBVeF9BTlRsMDZmaW9LZFIyVzN2S190cnktaUl2LTJNZzVGU1VqUXppZkdDaWhSQ1ZpZWFHeno5WllQQzZudm9sR2lpTVFV?oc=5",
-    "date": "2021-04-23",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Arabia’s energy megaprojects: 3 upcoming developments you need to know about - Oil & Gas Middle East",
-    "summary": "Saudi Arabia’s energy megaprojects: 3 upcoming developments you need to know about Oil & Gas Middle East",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXFVV0kwVklOVTl0dE4zeVFZdG9DX0hOU0ppTTZtV3RjZlJVMWkzRnlNN205WXo2QlQzbS1yRHZucjE4eFNDYWpTc2piOXpoWk5JNXRJYUtpeXdRVnRHSlJMYTRCdmliQm5rWmlvSTVsZUZSejduc1pnSDVrb3JiV1dPNFNFSlV4ZEZIS2hSWTAyMFhfOFpkNEQ1WlZFcU82Q2I4VmlRT1FnSjRScF8wMHE4VXZUeTFzTk9QZHZR?oc=5",
-    "date": "2023-05-29",
-    "lang": "en"
-  },
-  {
-    "title": "Emerging Trends Shaping Saudi Arabia’s Supply Chain - JLL",
-    "summary": "Emerging Trends Shaping Saudi Arabia’s Supply Chain JLL",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHh3ckhnLXVyN25Yb1pSZVhSc0lZeUw2NXZrcnktRnJfa3NEU3ZPVDBDWXRZSm9SX0NDd1RtTERzMENYN2JVeEVvYlg0NkhNeW1IYlpOSUh2SEFPTjZuZ1E4Njl3QWpOcE9lWmdJWG1WU04zQXdxVkMta1MxLUM4SFFXeDdMd3NyVjRod25B?oc=5",
-    "date": "2023-03-30",
-    "lang": "en"
-  },
-  {
-    "title": "Pan Kingdom Real Estate Awarded Contract to Develop 168 Industrial Units at SPARK Energy Hub - SaudiGulf Projects",
-    "summary": "Pan Kingdom Real Estate Awarded Contract to Develop 168 Industrial Units at SPARK Energy Hub SaudiGulf Projects",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQkdWbng4cmpBSkNqcFFSTHg2c29xSGdHTU1XeUxIOWhsWFBCUUx6UUQ2MEFJZ1pHeTg0RFJJOXZSVmRMeHdabnJ6RGJWY0VhTHdpV01XcWtZeDh6bVFNeHBBR0s0aFlueGpyeW13XzlBekVURGVmQmh1SWtuTTVtUkF1Qy1sb2FkN2pPQWRVVmZ2aGhHMFFYbTdXYl9fUFNqZFBkblZMR1pqX01NRHI2SzlqakZxT1Rva0c2elR5dHFpZ3JURlJZcC1mYmNtbzc3?oc=5",
-    "date": "2026-06-16",
-    "lang": "en"
-  },
-  {
-    "title": "SPARK: Establishing Saudi Arabia as a global logistics powerhouse - Al Arabiya English",
-    "summary": "SPARK: Establishing Saudi Arabia as a global logistics powerhouse Al Arabiya English",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOEluWFR6SlZnb3l0QXZ3S1RaRUJNaGFyQVJxWFE4QTNxUmZ1LU5GZ1p1VU1VdGJQNU1fZXNseERnUWJ4cTRSVnlzMUpfMDR2RDVZcGYzb0VrWEdNLXktOTlteURqalFYcG5paWZXeU5RMG5PRy0xNjBzSkthWXFfQ2FJWm1Vc1VLVkxWTXE2YnFXYnVPdkc2UHJtVTJTZkxCSENNc3BJR3BUOXk2WjNYZFBUdEdFT0tMYy1GOEJvRmTSAcYBQVVfeXFMTnNRZmFRaHFUMU41ZjZiNHVnWDZGU3FYQzRCM3NuZ0RWLVBhMDFKR1dxWF9ISnNCY0tncmc1Mkh0OE01U1dVVHRBZFE0dmJ2OXl5Sjk5RmRIX1dOOFVZSENrOUx3RDJyS00xLUlPaDF5SVQydkhwRkpHT1BCZmV5M2JpdXRUNGlkcU1ydU1TdFNfb0FfaGwyc3U4UjZEcGtWY1M4ZTQxLVpkWWdpRFhYd3FqQVlZUnlIQllMYkRZazl0WXRiSFpR?oc=5",
-    "date": "2024-04-02",
-    "lang": "en"
-  },
-  {
-    "title": "SPARK announces 80% completion of its first phase - Arab News",
-    "summary": "SPARK announces 80% completion of its first phase Arab News",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUVZQWdkUjhIU3ZvNG9sMF8xNUxQd0ZJcFJFc3pJbm1POGsyTHAyR0pfRDJQRnJ2dXJRQkl0ZEVlanNoZjl3Z3g3QW9pQmJQQ2p6d0VLYmI0M0k5cmhtQXhNX0xfT2JEcHBFQVV3VjJucnlBLUQtTlhxNjBpbnFqdGhkVnRid0M3WjJyd2VhNkJIWHhH?oc=5",
-    "date": "2021-03-28",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Arabia's crown prince inaugurates King Salman Energy Park project - Arab News",
-    "summary": "Saudi Arabia's crown prince inaugurates King Salman Energy Park project Arab News",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTQ2SlBWUk5vemVkYV9BRWJuTnBjb3hvbnJvSElhb0pvZDJZR0ctb1JObExSVXIwamllZ0NhblJyU0xQSjNuaHc0T2dxYUszVmVZanVyZ2NFN1JWWnY2elh2RHY4dnA5WTZfXzU2VHlKYXdyNWJ3NXdsRWxteFhseG9XNDUxSEUxVnpYT1dGbF95UHpWUXl2cFg3QV91MjEyREMwdVVxUEQ2Q1c0dkg0WUQtSWZyYjA?oc=5",
-    "date": "2018-12-10",
-    "lang": "en"
-  },
-  {
-    "title": "MODON Industrial Cities: 36 Industrial Zones Driving Saudi Manufacturing Diversification - vision2030.ai",
-    "summary": "MODON Industrial Cities: 36 Industrial Zones Driving Saudi Manufacturing Diversification vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TajNZWmh0MDFUQWVpTDNwSU9DZ2otZnB1aHdKTXR5LXlpUHhmQWYtMTd5dl9rOUFkSTFvNDJQWUpKNmF1a1hmVTJCazFHdi1IRUVubDhNMmdDSXZDaFlBZDRfWjJoTDhzSUt1UG5hZw?oc=5",
-    "date": "2026-02-23",
-    "lang": "en"
-  },
-  {
-    "title": "Saudi Arabia's MODON attracts over $8bn in local, foreign investments in 2025 - Arab News",
-    "summary": "Saudi Arabia's MODON attracts over $8bn in local, foreign investments in 2025 Arab News",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWtRd2VubEF4eXVxNF80YWxRZGNiZ3JVanNzbjBXaFM0YlgtaWxjMlZFOHk1Y05BclVHcVgxd1BPTVB0Q01RVjM5Qi1TV2tSaHZ6aWlIWXRvUm5NUU1GZDhmR0ZTUnRNUEdsT2hkRlI4c2pUZUxySEIyRUthX0l0enVSb19LODRGM0NBTTktcEk0eEk5b0x3aURvMEJaRU5sMzVSbWlCSlRTd0s1TW93ZmV5VUtOZw?oc=5",
-    "date": "2026-05-05",
-    "lang": "en"
-  },
-  {
-    "title": "MODON Boosts Saudi Supply Chains With More Than $147 Million in Investments - ASHARQ AL-AWSAT English",
-    "summary": "MODON Boosts Saudi Supply Chains With More Than $147 Million in Investments ASHARQ AL-AWSAT English",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWNNTld3cU4tX3FmZnBJbFZjblVlX1RiNjlHZEp2TmgtckpMZXEyN3ZvSUg5Z3dqSkZqeEI0V2NzMlNUT3QxTTZBMVNkdUc2T2daRjlnNk9JWlpvaVRJUEZVb0RuR2Y4WGI4cGVISVBtT2NhczdwQ2d0MTE2Ny1PSlF0ZmppSWRqOFhRQVhjb0ViT3VzOWRQWm5Ldk5ESDE0X3JDeUZHWUc?oc=5",
-    "date": "2026-06-17",
-    "lang": "en"
-  },
-  {
-    "title": "MODON Attracts SAR 30 Billion In New Investments During 2025 - Pulse 2.0",
-    "summary": "MODON Attracts SAR 30 Billion In New Investments During 2025 Pulse 2.0",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3FHaks3bjVGSjJscVhHeFJXY1JBYURXT2NET0JQT1JQQ0lSSF9NUVJiZ3gwT1pOZkJza2lrWXE0czdjbllEeDVKT3lxUExRZzhiTUZ0cHU1dFhoNEtwRXR1cjZ2Qi03SzRlOXpIYWtleTFQLWphOEJZcDNGaS1RV1UtQVNWQVHSAYwBQVVfeXFMTVNiWHRHay1uc3lJVGxiTzdNS3ZRMERNVmRQaFYteV9kVUdXeE8weTE1SUp6WV80UHg5QUxWakdSeGE0VjFPSVpVTTFwYU1YZlBRRHpMS1lQMGhCWVh1Wk5yeXlyOWV6Z0FCZ0dRcmtRTlNYbXhZYTdDUXdzdC1VekJDYVpMLUx3MjhudTY?oc=5",
-    "date": "2026-06-11",
-    "lang": "en"
-  },
-  {
-    "title": "Most Industrial Cities in Saudi Arabia 2026: Top 35+ Ranked - vision2030.ai",
-    "summary": "Most Industrial Cities in Saudi Arabia 2026: Top 35+ Ranked vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iM21RNjdMSENPZkJQdTBYdHRxS1MwWHpJZkFQZGpZR3JXNGNSbFhBMEZrY2tQT1E0SERqRUM4d25fcld5azRvaG1HdGwxVE9yQW9ocVZ2ZmhWMlBuNFpzckZGSDhDMHhkMGx0ejNoazZ0VWZJ?oc=5",
-    "date": "2026-05-06",
-    "lang": "en"
-  },
-  {
-    "title": "MODON Attracts SAR 18 Billion in New Local Investments and SAR 12 Billion in Foreign Investments in 2025 - Business Wire",
-    "summary": "MODON Attracts SAR 18 Billion in New Local Investments and SAR 12 Billion in Foreign Investments in 2025 Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ2hQSGJpdnZtZ0VNYjRHTS0zY194T3RYd3VDRU5SaGhOLWY3OTk2a2dEUEVPa0IzZThIaFVYVG1LbmRYN0NjNGktdmpObmp0aDR3WE5aOVN4eFlZcENJU2lGR3JIcDlURFN6R2RQRGdqRExJMFZ6M01YdW9xV2t6MXBra0ZObDNHNktFc0s0clp6WWtnWEJDcVo5ZWRQT2h6T3k1a3ZOQlFHdUM0dFhwMGdXZFc5YXdha29HTDl5cFJlSE91TDktd2g2d2hLdERGM2ZDdVVyNm1PeVVrSDZoaVpRc0VaSFVZZENmRnJQeksya00?oc=5",
-    "date": "2026-06-10",
-    "lang": "en"
-  },
-  {
-    "title": "MODON Launches Investment Opportunity to Develop, Operate 15 Ready-Built Factories in Tabuk - وكالة الأنباء السعودية",
-    "summary": "MODON Launches Investment Opportunity to Develop, Operate 15 Ready-Built Factories in Tabuk وكالة الأنباء السعودية",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JZ1FEb0xVWWxhVFp1UnZDVkZud1cxUlctSjBHZFB3VlZ0SzZSUGZDRUtDZnk0eVVHUV84MU9mRDhrdC00VGFFU3hn?oc=5",
+    "title": "East-West Oil Pipeline Offline After Attacks Spark Fires in Saudi Arabia - KCCR-AM",
+    "summary": "East-West Oil Pipeline Offline After Attacks Spark Fires in Saudi Arabia KCCR-AM",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVJYbUFSekd4ZWVzd1B2RG9Wd0VsWTRmVTJ1NTl5TlBaSmtWY3V3NklTYzNBQkk0LV9ocEJUYWxrUWRpd3llT2tUc29UaldfellvcEdDTzVPcW1EZktHci16NFpXcnNlbDVLN3RaNEIzLUJORmJEZGM0NjdXSG9Ya0xISnRvWlE3NVM0X2JKUGk4MjZvcDBxbG1vTVpEYmM3dmNIS21EOVh2UFVNYm1Z?oc=5",
     "date": "2026-09-12",
     "lang": "en"
   },
   {
-    "title": "Saudi MODON attracts $8bn in investments as foreign inflows double to $3.2bn in 2025 - Arabian Business",
-    "summary": "Saudi MODON attracts $8bn in investments as foreign inflows double to $3.2bn in 2025 Arabian Business",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEZrVUZfUjNiOUFuX2ctZUlQNDhxSG1ZQVhESDU1YV9fcDdfQjlJaHNKQ1llbUdGMXowVG5lTTB2Mk1EcGE1S3pTNTQtMjhpbVpaQUNMWWFkTHhtUWJCMW5xSXI3VkJpUUFoX3hhd0ZtQ18tYXMtX3R4MjZLSW5rTExSS1RubHZ5cmx3a2dHc2dOOW10WFVVbnVvbFRuTEExX29EVXBPWVIyZUdvbG0yYVJ1UkhVdjQxY29QX2N3?oc=5",
-    "date": "2026-05-06",
+    "title": "Houthi attacks on Saudi Arabia escalate: Is a wider war looming after deadly Riyadh airport strikes? - Gulf News",
+    "summary": "Houthi attacks on Saudi Arabia escalate: Is a wider war looming after deadly Riyadh airport strikes? Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazl3akh0NzFZUHNWaWloaG1ZZGxyOFlubWp6VkU5ODQ0bFlhNUF2Zy1NY0FpSUNRMl9nWjJfRWtJOE8xU1l4MTJuNng1N1o2bVNLTlRXN2Q5eVZpNG5VWThOdXJ1MmN5TXdOS1BUOVBMMmE0UHlsdlJMWFVETDIza1l2R3FRRXpSNTBETTVWQWYxcGhhM3RkSUxzM3IyMUdQMUhGUklaQVk0NlVzZFlPcmxVZnhPekMwcnpDTWMwLVl3aEdRS3ZheWJPWnFaQlUyVUNwV1V4aHk4bkdXTW1tbEV30gH3AUFVX3lxTFAzSU5wS3c3TTVySFlyM3dQNU1OU081T3NiTGN3dk5kTzRWVnRVU0Nhd2hwRVEtaDQzRXdFOXhNSFY4UkFsM0FTMHdqSElWcGZMeTJ0TmlGVjNjbXdLem0tc1ZpMDhpUUNaYW42ZlozaHNRX19McWxudXpHd2ZSVFBuby1ISEdMWUllSFhwM044OWZtYmtaOUw4NWJiV2hmT3BxVVlIaVlHQUVrRnoyOHNQUC1QOW9jblVYLUItejdjN29oYzVFTGNBWENzcjZ0bUNFV051dUpPSVdIZnFWeWxpT0tnR0twR0hURUxGcC14b19LWFFXWmc?oc=5",
+    "date": "2026-10-12",
     "lang": "en"
   },
   {
-    "title": "Modon inks multiple deals worth $2.35bn at Global Industry Summit - Arab News",
-    "summary": "Modon inks multiple deals worth $2.35bn at Global Industry Summit Arab News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQVJFTTh3LWpoc2dlRk5EQlFCdkN1eTlJeHVCb210cTY2VENEYzJFd09DSjZsVHZ6VlF3c0h1bmZ5RW5MLUQ3Rlc1WHg3NW05N1ZHTHFzNkZpcHZfN3YtdE1FSmNLY0Uyay10V2JURXUtWDlMbVFOU2JNMTI1eGJxeVYwZWZkUnBleENsVmpnM2RYM3VOdlo5aktubThHWjdTNjV4dGwzaUc?oc=5",
-    "date": "2025-11-26",
+    "title": "How Saudi Arabia Getting a Nuclear Bomb Would Spark a Middle East Arms Race - Newsweek",
+    "summary": "How Saudi Arabia Getting a Nuclear Bomb Would Spark a Middle East Arms Race Newsweek",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjlxT2lEeHZMV3ZSd21aYzc5THRxa0d6MlVySDczRUpHZjdFZDh4WVVqX0YtTlRsWGN6ZUpiM3BlUEVBVHZiZmJ1c2RYRDJuSWhqQVRWLUVLLWJZOVZQcWFMMzJONFhnUUtyQk9jWi1zVXMzVkh1OTVDNks0SDhxelJkZWdrRDJ4MVF5QkhhNGQ0d194WC05aXdvU1lVd0ZHZEZJ?oc=5",
+    "date": "2026-07-23",
     "lang": "en"
   },
   {
-    "title": "MODON Launches “Motamim” to Enhance Industrial Integration and Attract Investments - Business Wire",
-    "summary": "MODON Launches “Motamim” to Enhance Industrial Integration and Attract Investments Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3pzX3RpOS1LaUpmVnU4WVhlQTAzdkNScXF6UWc1R1RBYlZoT2dFdDF6Zy11OTJRa2syRUFLdWN2RzlnSTluMnJKZTc1Szc3MG4xVGtxVTBGakp1Szdoc18wQkhKU2V3ZEI5SGpCNDNBZ1h0dzc0M3lfNVZPMy0xZHFROWJTSTFqQktSZThQRVpZQ3k0VXlXSTRZa2JVMUw2Z3RzRzA3TVhXRk11aUJ6SndWQXB2T2VCYjlvZHA5anFDbkZiYmFrSjF0MXh2c0pXUUxF?oc=5",
-    "date": "2025-12-22",
+    "title": "How Trump’s Saudi deal could spark a nuclear arms race in the Middle East - The Independent",
+    "summary": "How Trump’s Saudi deal could spark a nuclear arms race in the Middle East The Independent",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW5URFgzTHRDa3FTV2hESFplQTVnM1U5QnhrcFFnYUxaSWwweE1rY2gzbFZCWVYxbWdoMW5SemUxak5yeWh1SG80TXNsZV9qbVU3QzNKWmlZenQwenZyc2ZZRkNtcE9Uemg2a3RCaV9BSDI4c0Fwa212Sy1nQmRnZGI3X1V4c216VHVDazd0NkZ4dFJaakpUdHRIWnNZTFhGVVhrV3VTNkRLWjhNRHQ2WXNuZw?oc=5",
+    "date": "2026-08-02",
     "lang": "en"
   },
   {
-    "title": "MODON Reports SAR30 Billion in Total Investments and Strong Growth in 2025 - وكالة الأنباء السعودية",
-    "summary": "MODON Reports SAR30 Billion in Total Investments and Strong Growth in 2025 وكالة الأنباء السعودية",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxSUxiMDZJWHA1ZWh4TUZJRnVBRmRBdzBrb3liRjBBWHp4TlVEcmtoUW93MlR6SkxITVVWSXBMaWVJWF94ZUk4Q0F3?oc=5",
-    "date": "2026-07-08",
+    "title": "US-Saudi nuclear deal: How will it impact Middle East? - DW.com",
+    "summary": "US-Saudi nuclear deal: How will it impact Middle East? DW.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVdYLWlNVGtWZkg4Rm1RdHVIbGN5UzI5VENlTzJGQW5ZMm1BX2pBZXIxQTZ1V3pVeXBvMUxhLVd3a2FLeUwzeVZSSHV3S3ltNGtYaHFQS00wVHdrUmNYNWtRZGUwdUpzMkNibGVfTDVYT2piT3FJdWZnYzdnWXRHSzJ0dHhDS3h2MTFWS0d5YTdHUzhIaG52dmNrMWs1QdIBngFBVV95cUxObkVHc3RxQzViWkcwUnI2S3pUZ1BqRkt4MUc4X01GVWczQmE5dU9HbC1RQmlJOE5lbmZTaVVvbW9nTTIwZGNlWVNYbEE2bXduYnRBV081OWlPOWh4YkV0dXdGbUd5UVhpSTNOVmZ5TXdLR1g2amducldNTVgzRWc2R0Z1bG5YbjlJWUdYLWFnY1c5WUVGV3R4MkxRcVEzUQ?oc=5",
+    "date": "2026-07-23",
     "lang": "en"
   },
   {
-    "title": "Industrial Licensing in Saudi Arabia - vision2030.ai",
-    "summary": "Industrial Licensing in Saudi Arabia vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oX1Fnc1lRSEZYY184Q25lQnFsbEFyUDFqTGprLXQtVnBySmRrdnlpNEYteFZNVmZRblA1QXd6UFlMZHFVLVFIR19ZMGdkVzItYlphd2hEdVcyNmozTWpkZnBkXy1WMUFpRVc5VnBR?oc=5",
-    "date": "2026-02-23",
+    "title": "Spain's lineup changes spark goals outburst against Saudi Arabia - DAZN",
+    "summary": "Spain's lineup changes spark goals outburst against Saudi Arabia DAZN",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDdVbXBuZFZPc3BYaGN0c1FiU3VvSGdFYTF3Mm1LUVJBLVBKT1Z3VDQwaHpVLXBfUEhlY2NCVjVuWXg2V0JyLTBSeHVKT295cWY2NDV4VE1ONTVzcEpQbTNIY0c4Uk9pdGgxdHNxR0NkUGVHV3U5Q3NZRVZFbjI5Q2c0WktlcGZfTHMxZFBSanhYZjd6Z2RGTm4zOFFyVHlFMWc4LWtIQ1Fpam9aRVdBWXAwd0RVeGVPRjhRTWQtMDdMcWY1Mm00TGo0dmZFZHRvZzZiUzEwRUlNd0FHTHc?oc=5",
+    "date": "2026-06-21",
     "lang": "en"
   },
   {
-    "title": "Saudi minister launches $810m infrastructure and industrial projects - Arab News",
-    "summary": "Saudi minister launches $810m infrastructure and industrial projects Arab News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRkRESk9EYTl5eVNOWXpSR0JidmFadVMwODRQTWg5M3dpZ183U21ET283d0NxMUtsUWxEVVcwRnBjVXo4bGdxQk5qbHh0TlN6TTJveTJNbXBvdElrWEhqSWFBMmNqMm9zOEZFN19lWVZDTHA3dlBtcEhJR0MzanFUV0MxdkVtUVVFeG1BT3JXaktJZVVZa1FTTWtKS2gxZ0FJdUpiM1hYSU5zN3BPRHc?oc=5",
-    "date": "2026-02-17",
+    "title": "Houthi missiles hit Aramco HQ in Dahran, spark fire without casualties - CHOSUNBIZ - Chosunbiz",
+    "summary": "Houthi missiles hit Aramco HQ in Dahran, spark fire without casualties - CHOSUNBIZ Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNkU4Q2Z2dzdPdUlISnBLWEhyZ3BlQ3VnYmxRdHE0VTdYSmtWVkFPQ2E2cC1pRURSczlrUWlTdWotNlpHU252SFR5WldxQ2VESGU5SmlqVjNzT3l5Q0RWckxNRGwwQ1hKWnZxNDlabkZJNE5wbWFydDNXWmMtdjRYbjJ2ekV3b05i0gGcAUFVX3lxTE1aRDYyR3RYZ1dVbHVIVWJWV0ZvRkR0ZzRvdlZBaF9XNGp1aDRfTzhTbnltS0NNOVEzWTI5UFNSMGEweVB1ZkRyc1lTVzFNYmpMVjhZdEpuS1hQYXBxZFdvTlBwUUtzWE5Wbnh5ZDRCQnI0TDRFakJyYXh2X215MnlRQzZKdVA4SGRCYVFxa2JuZGhyWHJ4X1IwS1FJTw?oc=5",
+    "date": "2026-10-14",
     "lang": "en"
   },
   {
-    "title": "Inside the “Jeddah Food Cluster” How It’s Reshaping Food Investment in the Region - Business Wire",
-    "summary": "Inside the “Jeddah Food Cluster” How It’s Reshaping Food Investment in the Region Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNVphRkR3bVFJREVCa0hma1dDVG9sajNqQ3lNMmxKU2xwZFVCU0pERjRrVG5lUWViVnNneXVhQ1BaRWIyM0UxYjQyc3k1dXJEQ2dwejlmWXNBUFhJZ04tZEdxcmtPRjdKMkxucXFLOGJVN3JfZTlhQUhCXzkxNUNpVFJaWDdHQ2xOVF83WkVmbTJrVWZac0o1a0JzbU9UMlczUjJMakhIV2lENHZuSXBkOFhJZ0Yxa2hyMnVUc0RQbXZjcFVzZXgxRWU1bjg3YUR2?oc=5",
-    "date": "2025-12-22",
+    "title": "Gulf states quietly by-pass choke points as Hormuz risk lingers, Saudi Oman deal fits pattern - investingLive",
+    "summary": "Gulf states quietly by-pass choke points as Hormuz risk lingers, Saudi Oman deal fits pattern investingLive",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmRseUVNOTJrMjRzODNvM1VwSnpyTFlvbHl2am1HRlFyWTRCRHkzcnkyeHRwLVB4c0ozQXdVZDJQc056a3hHbGpYTWUwOUZ0dXlXR0hFVnR1a2lGMTRLcTktbk1aTVE3ODljd2pRT3JLWTlDMHFFX200SGY0QWtmT1JLdFBVb0R2UmQ5ZkFSRE5fRVBGVkJNbU9Pc2tsaVdSS2NkVHgzNnJpdktJM1kwQTVydTU2cU9VbUJOVnBSVnA1VFBVN0lZVzQwRQ?oc=5",
+    "date": "2026-08-12",
     "lang": "en"
   },
   {
-    "title": "Minister of Industry and Mineral Resources Oversees Signing of Industrial and Logistics Deals Worth Over SAR1.034 Billion - وكالة الأنباء السعودية",
-    "summary": "Minister of Industry and Mineral Resources Oversees Signing of Industrial and Logistics Deals Worth Over SAR1.034 Billion وكالة الأنباء السعودية",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55WFRaaXdCcmNPVFM4YXdObG1TSzFMbksyY1JNd25rQnR2UDduWlZmMENwSW1DLVY2RkVpYVNqVmZDSzRjTnFOQUt3?oc=5",
-    "date": "2026-02-17",
+    "title": "PNY Technology and MTC Partner to Expand AI Computing Infrastructure in Saudi Arabia - TechAfrica News",
+    "summary": "PNY Technology and MTC Partner to Expand AI Computing Infrastructure in Saudi Arabia TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYU1CMkVqZjVFRWlwUlA0ZndiNnBiTmM4UktxeVM1Ykl4MmtBTklrVEFvUlBxb3BkQmV6alA1d0w5cnJiMkVnU19BNVhaWFRtZmg2VXFKVkFRV0JRdmF3ZmJDSkxWcXByWk9RZlUxUmZDeG44eHF5LUdKcU50V0lWNnYtSkdYTVVZLVRTa3dCMFVYN2NpcnJjR0FfTmpvZUo3c3hrNkJzTTE5MzBsV1FEcEltb01IXzFOLUlKWFpWWmg?oc=5",
+    "date": "2026-09-21",
     "lang": "en"
   },
   {
-    "title": "Saudi Arabia Industrial Real Estate - vision2030.ai",
-    "summary": "Saudi Arabia Industrial Real Estate vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNU2llQTdhZG9ySVd2dUdxX2tpcnoxOGZ2NTlnVEVZR29hTVpHbjNJRnRUUVZjbWxFRk1fNzE2WTZXUVpIQ3ViTFFUSHJLSTNOeEthUW9LSW03MUxZbkpRR0ZpMU5tcUFHMzA3RUw5SVdnUEk?oc=5",
-    "date": "2026-02-23",
+    "title": "Cambridge Judge’s Saudi Defense Talks Spark Human Rights Firestorm - Poets&Quants",
+    "summary": "Cambridge Judge’s Saudi Defense Talks Spark Human Rights Firestorm Poets&Quants",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVRLb2VPbFBwa0ZnU2tWODZoeVdsWUpVeERPRXhlMnUtYWhoRWNkTkdZZkpsRUY2Z3ZoZXAwd3lGRUF0ZzRpZy1fTlBCcDcwelk2SHpMVGJXUU9TME92NWpTQVU0RDkxNlVucWYwM1EzVTBSamd0MmRQVGlDSnRIZElDVUdER0QxWlo5X0NvOXNNWTRTQUhybE1seFEtLXhVMG5lQ2VCbw?oc=5",
+    "date": "2026-05-18",
     "lang": "en"
   },
   {
-    "title": "MODON offers $3.7m investment opportunity to develop 15 factories in Tabuk - Arab News",
-    "summary": "MODON offers $3.7m investment opportunity to develop 15 factories in Tabuk Arab News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmZ3bjRnOHNHZmZldTlpME16bTBPa1dWV3N2QlpuRy1mNVpHV1pJTVBkME55dEhKQW5qUEtqT3BQY0hDa0ljaTBMVlZkRGNCYTRtNTFKRzAyWk9zOHROV3hSS1A0WFpidVBrMmw3NDFYeGdqM0hkQWc2TWUtQnlvdW14RnBQTzR1RnhzTDdYUmp2Q3F1NXB2WEpES1d0ZlJvbW1nQjZyZU9HSGo3WnpraTB2STA?oc=5",
-    "date": "2026-09-09",
+    "title": "Israel Fears US Saudi Nuclear Deal Could Spark Middle East Arms Race - Modern Diplomacy",
+    "summary": "Israel Fears US Saudi Nuclear Deal Could Spark Middle East Arms Race Modern Diplomacy",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR25jeHNXNU5PSzkxZVo4WWVkMFBTY3Fsb2FOSDVUdlhDcjRsejB1dXoyR1Z5T1pfak5nVDNtWVdUWHFQNnVoNlJsenU5RkF1TTdkdTQ5YjhLdjlyYS1leE1IXzdUd2xoMEs3TkVrY04tYU5PYmFoWTJNZjlfQnJCZEVHRkFVVVpIbXFkclJrM0tjcm5jY2xnMzJ2eVcwd09VSkFVU29tbmY0MmM?oc=5",
+    "date": "2026-07-23",
     "lang": "en"
   },
   {
-    "title": "MODON CEO Explores Investment Opportunities in Industry, Technology Fields in Türkiye - وكالة الأنباء السعودية",
-    "summary": "MODON CEO Explores Investment Opportunities in Industry, Technology Fields in Türkiye وكالة الأنباء السعودية",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MZHlSeHRmSF9aTXo2djJqckh2eHdGYVpKaFlkekxkSU4wdXlwVGxEeWlocnBrZnhxZGJSMndURzhLQ3E3Mnc?oc=5",
-    "date": "2026-01-09",
+    "title": "Houthi attacks spark fires at Saudi energy facilities - Yeni Safak English",
+    "summary": "Houthi attacks spark fires at Saudi energy facilities Yeni Safak English",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEMwREROMmFFYW9PNmo5NjladUZqU0lDUzVOakxRbUZfR0RaalVuVUZuRkYyRUJIS29vdUZEVjBELWtGV2E3NWNtRUN0X3FXZkhXQzVMTFlXUmNEeDdtWFVSNWxEejN2R3FMQ0hBVWZJSHpHcDB0N012QW5zNVZ6QURRblNIeG1Zd0NvbjFmYzBodGhJVnp3?oc=5",
+    "date": "2026-09-08",
     "lang": "en"
   },
   {
-    "title": "Manufacturing - vision2030.ai",
-    "summary": "Manufacturing vision2030.ai",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkRGxNR3AyWENXYTAwelkyWVQxVzFpUFAySllFMTFScU5qbFlXS21DanNVSkVHNkJMUTJRUEQzb2k5UkI4RzUxdVhxdmU2TzJfMlBqRjBQOA?oc=5",
-    "date": "2026-02-23",
+    "title": "New Yemeni missile strikes halt operations, spark fires at critical Saudi energy sites - thecradle.co",
+    "summary": "New Yemeni missile strikes halt operations, spark fires at critical Saudi energy sites thecradle.co",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGZUQUNfUS1mTWExQURXVkNpSUkxbjFTczFmc3dTcDdpMzRSRzRqY0dscWVocno4enVZWGhqVXkyTUhjd0c1RGxkUm9lTDlEa2YzQTNLUnVwelNyWkxRSUdNdnFrQ3lvNjNTRUhKZTlDaEpXSVpWWVVrVUJqSF8tOE5aVnYwQTlzb2w2MTIxX0RhXzk2RnJmU1RkSXBxUmVveGo0Z0ZieGJpdnp0Wko1NWZLQ3RZdw?oc=5",
+    "date": "2026-09-08",
     "lang": "en"
   },
   {
-    "title": "JINGDONG Property And MODON Announce Partnership Agreement - MoU Signed to Develop 2 Million Sqm of Industrial and Logistics Assets across Saudi Arabia - JD Corporate Blog",
-    "summary": "JINGDONG Property And MODON Announce Partnership Agreement - MoU Signed to Develop 2 Million Sqm of Industrial and Logistics Assets across Saudi Arabia JD Corporate Blog",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR011Q1BiTVFLZzFEdHQ2WW40QUwxX29BMFppblBkUm5ZMzB2cWotM1ZyT3RTNUN3c2llaWdfRDZtWmpBUXFaV21WaTIwRE9qODlNajljaDR2VEQtV0pVLW5NcTlKX2IxMG5hbG9lUzAta0VJOUhjdkRYaDVpZTFubE54TUtVWnBQUEpWZXFmVkl2SzJxR3JPdVVwdll1WThGQUtMY00wTndaM3RRajREbm5WbV9IVG02U3lnbjlCZ19pM0RCRC0xb3dUSHpSNEczejBNcmJmb0ZRUktpWkJDYm1nOHJVUWNxZEJNblZ6azhDc0taVDNBdUNQM3F2N0ZZd3lQcDJoM1NTUQ?oc=5",
-    "date": "2025-11-26",
+    "title": "Hormuz Reopening to Spark Oil Field Restart Visible From Space - Bloomberg.com",
+    "summary": "Hormuz Reopening to Spark Oil Field Restart Visible From Space Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb044dUU4NWUyUnN1M3BsVkF0N3ExbVFQTjlZdjZfU3N0TTFYTnVBUVoyQXQ3clE1cEQ2TDIwZ0VkVFE2NlZJYVJfNlNubUZxdFdMREdBT3FoaTZMYzQ0cDFUR1JhcXVVbTd1Uk9UbVlDMUVLclZHdVpndmVfNGRuTi10VHJXYXhZanlpaUgwcmM1dW5pd0djZjZ6RjZ0WlNBdzhoSGtzT0RTaF82YURNaUhuMHJfR0sxQlQzTA?oc=5",
+    "date": "2026-06-18",
+    "lang": "en"
+  },
+  {
+    "title": "World Cup best bets of the day: Yamal not 100% but Spain and Oyarzabal deliver - DAZN",
+    "summary": "World Cup best bets of the day: Yamal not 100% but Spain and Oyarzabal deliver DAZN",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV1ByR3BNMG0xeVNxTDZoT3ZjY2MxVkJ2Q0JpX1BkZS10dG9WR0ljMDhJVFQ4TG1TVmNoTzFwNnJpRDhuR1ZvNkNxVGoxZXYxWHd0UUZ2dkFoRjFRdTJGX3Q0Q3B0eUhyQ25OdEZ1TkdwTXc3a0g3d09HRE1MeTJTa0wtNS12SnRTVldVSzNRdEVJQTlqRGtfU1I0ZlBlYkI5VVl3TTJLSTJ5Y1k4NUVHWGdtcDdKX1JQT0tYXzNWVFY?oc=5",
+    "date": "2026-06-21",
+    "lang": "en"
+  },
+  {
+    "title": "Saudis shut key pipeline, spark fears of further fuel price rise - The Times of India",
+    "summary": "Saudis shut key pipeline, spark fears of further fuel price rise The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNalBuNXltTXNuRWdpajEzUFZRUDIzNndyVGItcVJpeEh4WGVEd0Q5NlBIZXFESUNNX0VBZlJEWG13WExoSDZycFY2Y1NUS1F6S1lNU3FzOHpRXzhnZ0NIQ0p6Y2psTUNJWnFmX1VRRzBCcFRIN3FHN0FQUll1aUsyb01qM2FRcHRNaGpkTW9saFRZek9ENVpCWnhFTkFUUGVGR0FOeGtXQVgxZklWeXRvT3NaT3pHM2tBQTEzZWlTVkhaX2V1ZXRuYXZtYUZwNXlTSWVvaDdLb2RrV1nSAeABQVVfeXFMUEpqTUJLbVVLNjJ2RHh4dXBrU1lMLVUweFp3bEhBdEt3UXh5THMyd21BbmlUcFlHZGNrSzdJWkFIbEpXc01Mc2JlVmtTUGYyNUE1RUtiVFhxMFB6aklsRUk5V2dHVzZsU2l2VVdMckxNc1dFcVc1T25ZdENlbTFiWmJoMV9UQXR0MXhxT2VSVlZRMFpkT3FGMDNPZDRKMWtRWU9HVkJhVmI5Qi1QZVotMFBLTlJ2bTR4dUwzRkdBYVJCZ0pzR0stcTdWWDN2WWs1bWczU2FzVUpjdWVEMUFDZk4?oc=5",
+    "date": "2026-09-13",
+    "lang": "en"
+  },
+  {
+    "title": "PNY Technology, MTC partner to expand AI computing solutions in Saudi Arabia - Al Arabiya English",
+    "summary": "PNY Technology, MTC partner to expand AI computing solutions in Saudi Arabia Al Arabiya English",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGhFRlVjWFdNVkd1bWFQamZERXRHX2R3ekJfOF93eTY3dEMwaTRFNVgwSkJHeTIxNkxUTkNCVXRnZTNTSmotRG1RYlZjcnpidUxqYnRlRUNTU1V5VldfcnlNR1VtS2VUU21SVE1DUTBmMFl5SFdSMXVNbVh5d2JJeFgtSHFvMDY4WDFYV05iX2pHdU5fMFR1VUg0bXZPbW5NZVFQaEU1b0h2Rnl5bS1kTHhrUHFCSktXX2NQbHFBZ2tXUXAyVkZianQ4YWNBUkHSAdQBQVVfeXFMT3ZERDJaSy1ESmprVHpqbE9QUEFkazR1U3p0Zk82RnFMY21pc1QzZGM1LVdJLUI0cE5JWmhrZUpJU3RIMkczMFBSdWZ1dEFETGk3ZUx2R0NZOU1zc1pTLWt1Rlh1eFFMQmFob1ZiTGdlbl94TGE5MVFULXFYU05EUVhNSHRxVlRpZDVNTnhiVVZfS3JyazJhVVNrS1JpSllIbzlWV2FFWkd1eEpWSDY3cWd5cFBma1UxbGF5TFNwR1dhZERfcmVCS0EyXzdTX29JTW03VTg?oc=5",
+    "date": "2026-09-21",
+    "lang": "en"
+  },
+  {
+    "title": "Houthi Attacks on Saudi Arabia Spark Fires at Oil Facilities, Wound 73 - PUKmedia یەکێتیی نیشتمانیی کوردستان",
+    "summary": "Houthi Attacks on Saudi Arabia Spark Fires at Oil Facilities, Wound 73 PUKmedia یەکێتیی نیشتمانیی کوردستان",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SSmFwNnFqeGlCYkpJS2U2RFhpUGk3ZlNNcHZEZ1l6LTh5MVlwNnBCRV9EVFhQRTNqczIwQV9HNWU1QjBaUS03cEg3VmZkQQ?oc=5",
+    "date": "2026-09-08",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia Postpones Its Marquee Investment Event After Houthi Attacks - The New York Times",
+    "summary": "Saudi Arabia Postpones Its Marquee Investment Event After Houthi Attacks The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWxSYW5DN0dmY1FZeU1qUmhBbERZNTVGb3ZGdGh0clVUeUpEQ05lRy02TXplRDRIangtempxS1pWa0QtX3I0emFNZ0pmYlFTbHNHR3ZPTVRCcUJQNzVEQ2k1Q3VZbklES2RFbVFhb2xyY3I3S1djeDlfZ3hFNG1TaWc0TQ?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks - Reuters",
+    "summary": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJvV3ktdmE4WU9ZNjVBcDRBYW9yNXJVYVI3MV83aWtIV0pYN0lGNzM4UlNRZDdpRGs1bGsxR18wcjY5STVhU1Q1VEZJUmRKWFZPUnoxSlpFaThtMzhjRlVIZGl2VVVYYTlYM181N0Jyb0h4ZWRrM2FVZFZsSFRBT1haU0QtdEp5QlZ6dVg2VVpyX2RsaDEzbnN2Q1NvSFc5WW5jT2VmVQ?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia Forced to Rethink Investment Strategy Because of Iran War - Barron's",
+    "summary": "Saudi Arabia Forced to Rethink Investment Strategy Because of Iran War Barron's",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTVyOVlBMWxhS0hYb25VUi04enEwenByUE55WldhTVZjYnhkV0hwVWZvd0owaFBiajBsZW1sRmtVbEpQb2sxajZBU2t0VnJKZFBmNEtwNEhmWHV4bHZoUThmRGZHeS1tTzJhQlFxVzlEWTNvXzBrQmt5ZERnN2hGVmgzTFRyRlJVTzdJWnFBdV94Zw?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Saudis Push Flagship FII Summit to 2027 After Houthi Attacks - Bloomberg.com",
+    "summary": "Saudis Push Flagship FII Summit to 2027 After Houthi Attacks Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdF91VnB6WVJqWkJRU2JBNUhBQmJnRHF2TlRvRVQxZXVMaG8ta2o4RkhvN1RkYWFLVmdkTGRtYXBLc3JSUDc0cXlpcVBLSzhFTHBxdl9ob3BHXzF1cXhoLUx6TmtVMERGSXc2d2tEYlZNeGwxejUySTNZZWRSVHhSXzZIbW5Fb29WNUY4SnpPSDhPMlRucXBUaEVrVWVDd3l1aTYwZnlDMGgtRDNjWXdzZ0xXVzM?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom - CNBC",
+    "summary": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom CNBC",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmloanhGMkdyYXFXR2FtNlhRUGw3SW5mSzFWUXRCRWFzSjBsSHlqbGlWeFV2bWs3dlJjT25QRmRYN3REblJPb2VVMHpLRjVPazhqQ2RTbGdEWG5LUEtoTE5wT2cydGoyWVQtOW5LcTh2X2Z4VmpaXzczdEw4blVsbHdiWjRnYThsQjQ3VllvbGNsUzllR3fSAZsBQVVfeXFMTVlUQW9jVVRlaXI4cUJOUDE3NWJNcjVYcElWM2ZoLWJfMTdJeEgta2FHcnRSODNnZFg3b1pzamJXNDNwcFhKX29vZ1VPaFpIMVhHYkFvQUlJc2FmQnowOXRXdGF2bmpBSDNNbVQwb1ZocEd0V1p4TG9mM1ZhU3hhTHotZjFzUmhKZk90b1lKRTBSamJDbS02TlVBb0U?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week - WSJ",
+    "summary": "Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xWbmpuaG9XMkxfSm9uLXdQSHVpRmNiMW5DeUN2R3c3UGkzc3R1THVGSUJRTnVqNmthQVphdlAxbFM1Vi1EZ2ptamdmRXFkZGtoX2NlaFhheC1waGcwWmRuQ05aVzVtbk9EMlFVMkswVExqeVFJaWd0Tzd3LUZuVWhPSGFkWkRzczBybXM5UjZvblQzMXplT3YxWWNFai1xV1VENllnQTJPT3ZHU0sxdnZpRQ?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia’s Changing Regulatory Landscape: Opportunities and Challenges for International Investment Managers - Morgan Lewis",
+    "summary": "Saudi Arabia’s Changing Regulatory Landscape: Opportunities and Challenges for International Investment Managers Morgan Lewis",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZlZYak9pVzBfeDJ0c1p5cDdLS0hUc2E3dENKaWc2RGpLa0JRMlUxOF94eXJOME83ZjhRaVljRWJ4WTJOek1oQ0lhQTFQbUV5MzdEVFBPQ3VaREpObGctWnFaMTFHVEVOZmVJeUE4c0dlNjAyTl8xSG1YejZFdWVnZGZPR1c1eloyaGJwdmQ0ZUI2dDZDbjNmTmIweVNBUHJwOWNaT3owMWpvdjJOeEFobHR5ekJtU3REYnZNWTByemNPd2tXanhGU1o1RzFlcUFEWVBXbklVT014NmFYM1BKOEdoNkFsUQ?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Houthi strikes cloud Saudi investment drive - Al-Monitor",
+    "summary": "Houthi strikes cloud Saudi investment drive Al-Monitor",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa29iX1hOeUNmUjBfUG5QandRVVFEV2Z6dzZrMDdIMHFDSmxkcWR1cGN3a1gxT3F4RUFmRFFWek1kczlXM18xd0R1amNvSW1kdXRFX3FLNTNPQ1Z2dHR0UGNrOFlaN0JDZW5ldHVHcFpYay1PSHJsbVNmdVg1Vk9zSDdWbEtXUlF5dkprYWFLZUFzd1k0Z1hr?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks - Al Jazeera",
+    "summary": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSERidkZWOW05bnl5OC1CNnBmVV9mY09BbXUwLVp1V1pJLWY2eHpQZXZ1WUZzd0Q2VDZoeUVZR2FCa2ZPWldqV0tiVGltbzY0QzdPcjVWYUpKeHVxQTFBMXJVYTdyb1hKTjd1eEwzU3I4am5ZUXd5UjhRcGg2VmN3VEVCR21ybHd3TzEwRWZkWGpHYzZmT2luUE5SYm5VOFJrMnlTT2NTMWFLVzDSAbABQVVfeXFMTkJvX3pndGMtWDZMZEJJdDRJNm45RzJleTljcE9aX1RjZDV5UlpSSzdVN1p0Z2VBTFJKY1dTal9hdXN3RW55RmxmTGFoTEQ3UEZUb2c0SjZBZENIMWhOczU4WkxMeW81OGNnNzNERktWNUpaTEpLcGk5cnVucjNjTGtvTnlwRlQwQ25NVEVvd0xNc1paNjZURFZTZjNnU2RET3M3emZ6a0VxaTBfclJKTm8?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "HUMAIN and NVIDIA Expand Saudi AI Factory Pipeline by 84MW - Data Centre Magazine",
+    "summary": "HUMAIN and NVIDIA Expand Saudi AI Factory Pipeline by 84MW Data Centre Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVpMT3p0LURuYldSTFZ0MTd3Mzd4Um82QjlhdkFBU2l3VXdlc1pwdEFRZWlmT2lJRmVCTlVkYngxRktHdEl6SHZYR2o3aDMxV3lqVFJiRVJ0VEQ3UFZ6eGlhWFF2V1lWdGJ0cTZpamJlYUMxcjg4SzlFck4yNjBKaHhPX2JyaFQ5blBZNGE2empINmVxeVFWOTlB?oc=5",
+    "date": "2026-10-23",
+    "lang": "en"
+  },
+  {
+    "title": "Houthi Attacks Threaten Saudi Arabia's Flagship Investment Conference - i24NEWS",
+    "summary": "Houthi Attacks Threaten Saudi Arabia's Flagship Investment Conference i24NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2tZeVF3QTl3NHprV094emJkaEdaSTNTN3hWendCQ294dVE1RmtlU2VvbWYwUXM0Q2JDa240SmhaaWt5eHZlamM1aTQ2a0laeFhiT2EyaGl2c3pGQVZleVlaVHVOQUNfV3NZSWZDYlBwNm1jcGFLeTlpMnp5YTNpM2NxZDF2SFIxbWNvMVRCREV5TWVyMk5SY01ieDRMcFlRbkJYZVVyWlQxZjFKU01zNmtKWWc1cWY5MFRTZ0FWVU5CdGI0?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Major Saudi Port Investment As Disruption Persists - Czapp",
+    "summary": "Major Saudi Port Investment As Disruption Persists Czapp",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWJweUhWc0JlYi1mLUhncnU4eWxXVzBVcktRRk9LNVFEc3c1X3ZCai1Mc3Z6ZFVzMjJUUl9PTHcta1pFNE5QOHhHNHlpMUJ0cHg3UXVzclZxS1VtNlVzeXdZYXJPUEJwR3NVdmhoX25ROEFrZkVLcThKR01md3JJY3g1QVJ5cmJfLVBZVDdKQ2RlemE0?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "After $55 billion Saudi takeover, Bay Area company lays off 400 - San Francisco Chronicle",
+    "summary": "After $55 billion Saudi takeover, Bay Area company lays off 400 San Francisco Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZENKQ2ZWY0U2YTNIYjVtRGxINFVxVEM3bDY2R2JDazFxck1aUThYcmdDZnVqczVqNHYycTRCM1otUVpYRUY3OFFfa3RneDc0Y2FRMGp2TktyWlNoRFVEM0p0ekhmS0tkYmVWSG5mQ2IyRDlBWkRUVnhKaFhqMUNzZzAtSnF3Tlp5TnJRRzlIbWpLRF9pMmVwQw?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia postpones major investment conference as Iran war fallout expands - Business Insider",
+    "summary": "Saudi Arabia postpones major investment conference as Iran war fallout expands Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ251d2wtaHV2amluaE9Zazdham02czJxYWhuS3BhWnlCcHMzcVI5aF82YVZ4Zm1kU3VaZHZrejBQZl9nOVZLeWxsejVyZFhLZEtOV2ljeWlZTnRfd3NhcjFLVG8wT3lSTFE1czlBakRLNkhZcjNFaVJkU1IxZzZJaDZTTzNnTUJFUUJuRHlxQXFIZUV1SFE?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "The Saudi Investment Bank Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "The Saudi Investment Bank Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 www.marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcjc1STVwRlBnS2Fic1pNQXJLU2dNTzhLSk1tdTY5emFKSkxvLUZsd0E5N05FcGIwRjdtdGE3WkZKVHE4VWx0elNUYmhfYnVOYlQxVmFvSHQ3em9nd2U3d3BqSFFOZXRoMWM4LTVvMW5iWTYzT1g2WWE3ODJ3VEFCSC1sMzBEQm1nMWdZLWgtczFxTkFPemVtLVE1alN4TXNjLW9hUFJXWkcyUzA0cHB4aWVkVnpUQVJYMnRhU290SjYwa3I0SHRscVhEbGFfTjN4VnlublNvZnhkSk9ZazVXNm51azNjV3hz?oc=5",
+    "date": "2026-10-23",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia Postpones Investment Summit Amid Attacks - Yahoo",
+    "summary": "Saudi Arabia Postpones Investment Summit Amid Attacks Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS01RSWU4TmJkUHgwVTE3Z1E2Qkdaa05XbENuTVFxcXNpTGxuWXlRWjVBNzdaUjRoV0ZoTWgtOG5zWkttcDRWdDdTaWZzNEZKQ2xqNHAtWW1KQUhfanNMSkMzTDNrWW9LVEJWQkJuOEJfNV9rRE5xX0JfZGFkTzhFS3l4eEpYa25Cbkdaa0pkSnRnT3BiaWNkVVpJdFkwUQ?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Jordan, Saudi Arabia revamp coordination council amid regional tensions - The Arab Weekly",
+    "summary": "Jordan, Saudi Arabia revamp coordination council amid regional tensions The Arab Weekly",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjdGeV9fS3FHWVQyeVItQV9WOVczZHU3TGVhdzAtQTNOT1ptckFmU095aGlVYkNwWnNRRFdfTDJBVkFuZmZyUEVMcFZaMlphOWI2Z1BHaUNFY2pJb2hUT0lFSlgyTlpyT050Z0RSNlQwT3FLRi1Ob3hEYlpkWktPTHRrWUE0LTUwRFNEbjItTnd3NXNWeXAzdktQeFk?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "The Frantic 24 Hours Before Saudi Arabia Pulled the Plug on FII - Bloomberg.com",
+    "summary": "The Frantic 24 Hours Before Saudi Arabia Pulled the Plug on FII Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkx1Rm5DWEZfaVlRSWtxb1E1aV9sY2NkdnhuTFVUQVl0SGxOTGl6VXJYb1c3YllYU3dLTXNub2ZJb1R1SEs0ZWkyZV9uMFdXd0UzZFZ5MkdRQmp1N3YtU3B6djZndVdOaDNBZE5lZWVqQWt2dkRybWkzN29oRFAycURveGpVdmJOYUZNRjdwS2pxS1BGeXZHMzE4UV9sRFlDcndKOTR1TE1EUEkwaU1yMS1kN0E?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Watch Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks - Bloomberg.com",
+    "summary": "Watch Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzFSRHUyVkM3U2N0d0lqRW5teTJPRWcxcGEtRy1kbmh3WkNGeFlwdU5QMDBIMXdncVdRbElFTHE5WHZaTDFaUDhYUjdXQm5makU3bjI2dW1mbzYtMnN3TkFnTlRscWNvYzFaMmlxT19SWF9zY3JybnZVRXN5bmlKSjdsZWVoNGg1T3ZPZnBWUVdYcnVZSjRNYQ?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi Arabia postpones ‘Davos in the Desert’ after deadly attacks - South China Morning Post",
+    "summary": "Saudi Arabia postpones ‘Davos in the Desert’ after deadly attacks South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYXI4M1BzZ01sLUR4eGlZZFZwNjBCWkRIRktVb1o0bTlfbFJtemhFaklQVWNQVU1fOGQ4LW5hd2t5dkZadG1vMEpCQ1gweEIyWUZsODhjR3FmSVNOb2dza2ppcXhOYnpjSTNxbExvSHBIeF91bDVNaHc5TFpCcTZQX2dpc1hrRksyaXMxb2NVTUdEQ1hGVzIwVld4dDA1YkZUdGQwek5NaC16RnJzLVJlSDk1X0VRdGd6eXFabmIyZER6ZFg0Znhv0gHHAUFVX3lxTE5pY19KMnVKQjQ1RGo4UTZKa3ZXWXdKWTBqZnhGVWxkVkMybTM5dHJCZWh5ejJDeEJtM1pqTWNCT3NzV3Z4VklPMFFMRHI2MWVJUFhOWU5nXzZVUnNyNDRmckhZRGdjNjY2bFRPZ0ZfajJXVUFZWmt6TmxJN2VMZjVnTkRkVGFHNG5jZHhqUC1JS01MNzYwdk5OYXhIbnRab1ZvSWhYQndRaTg5WXVtaFk4YXlSbU1LMEcxQWJMdldnVm1GYjRMR28?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Exclusive / Mecca draws Indonesian sovereign wealth fund investment - Semafor",
+    "summary": "Exclusive / Mecca draws Indonesian sovereign wealth fund investment Semafor",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUp5RFF2X2I4Sm5vRkFoX3NocTFnbDhvWEg5MUhoZVdjZlNTT2pKRmdRMHJtdXpBUUFmOHJRcFpNVDNOWmZma2pOWF9XQ0JqS2N6Q2poOHFfNGZKOW9aNVBHNzFaOF9acG91dGdZUjdweWNnaHZyVm9EZWMzc1VlelotRWtfZ2IwM0pfdmgxNG9BTE9MMXNHazU1djB4dEU?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Saudis postpone investment conference until 2027 amid fighting with Houthis - The Hill",
+    "summary": "Saudis postpone investment conference until 2027 amid fighting with Houthis The Hill",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUZXZ0UwQllHUlFEQk5oZWwwTkQ3eFcySGlEcDVIZnBPSFg4VmxBcDNwckszQXNYQjFIRFdpcGlGUnA0OW5FTGNZT2R3VGliTjlKNC1zWnFnblY4Ym9CSVJXRnhWbVZkOGdoMy1zSWRuMFRpclF0S1NyQ2JZU1NJUUxMQXNmOEtPYzd3NjhDQUEybVdhbEIxcFlB0gGfAUFVX3lxTE1NbXR2U0VuRDh1SzBrenpvT29KbVRsNnVLSDhZaXJ2ZU1YS1psVmpMUDl0dWNVM0UtNjJvWTRsZEowSHNNSzBzMmVXXzkxeFpzcWozMUJDcW5iaS1ndmVvaUJ0OHRxR0xHX0h4Q0JMOEZCejVrempPMV9UOFMxZmZvWndEVEpFQUxPQ0pwVnd2UVhwMUtmVXU4eVRzR08yTQ?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "How the Iran war is ruining Saudi Arabia’s plans - Vox",
+    "summary": "How the Iran war is ruining Saudi Arabia’s plans Vox",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2I2bWZkUTFFRDVvUHYwU0dLS2otVkN3QUVsV3dOMXVvcm42azIzemxjTExOd0ZxTDdTVGN4NVN1bGRrelk5OVo2Tzc4T3lqTUdtalBGX1ZvQmlMUWNTdjV4WjlsQWNCNE40ejRZQThTWUhiNXBoQnhJVzVtUVBtM2NzcjZnZw?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Saudis postpone ‘Davos in the desert’ amid attacks - Morning Brew",
+    "summary": "Saudis postpone ‘Davos in the desert’ amid attacks Morning Brew",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTlCZVQ1NmdpczhuYUF3TEVWbjhZeWtWUEdWVEhwTnoteDU3b0syZDVod3BMc1BWWXpSeGlQUXhSQmZYR2o1cnNDRzZaUHh3Z2RSdjlsUUhDVjltYVRlRVFSMWNrZHN0anNhV3ptRzAydGdBb3VHV3c5Z21YX0V6RHZ4ekxjWXVENWVIUg?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Saudi flagship investment conference delayed to 2027 amid Houthi attacks - The Times of Israel",
+    "summary": "Saudi flagship investment conference delayed to 2027 amid Houthi attacks The Times of Israel",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTENHVnNEdFJPUVZXUE8wOWtVTjBTVTJOdXJobW1xZHAzT0stRlF1SEU1Si1rczBwcjg0QlNoVXBlLXpGNGhRVkRXeXNIR1JLR2J5Vm5oWjd1X21TcU45WTlYMTdpcDk2MGtmU1pkdEhNOG0wM0lNeGN2azlES3k5eFZBNGx3aVMxUGVkNEFab1lxVTdhYTVRTUduVXhvZnVQc1ZUX0J0bEF6bm5fZ21pWXVqZGdINklRUVE?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Syria, World Bank to set up fund for recovery and reconstruction - The New Arab",
+    "summary": "Syria, World Bank to set up fund for recovery and reconstruction The New Arab",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUZHZzB0NVRvbW5ubU5wSkJoZHlZcUh0MVFVYm5yMUgtNzVBb3hiSDg3ZEpxbG9WMm5nak9TMUdiajhlb09oaklvcDUtX29ZVVMzdlBjbVZ1MDBrZEx2VmZJdGJIYjR4Undrck5fR1pUYW5CcmRSUUw2U0pzSWtNMEJUQUV4eHZFUlE?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Experts Outline Barriers to Real Estate Investment in Syria - Enab Baladi - Enab Baladi",
+    "summary": "Experts Outline Barriers to Real Estate Investment in Syria - Enab Baladi Enab Baladi",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2ZUTm5QQ3hSZzhDTThCZGkwWkVib0J6NEd0cFBERUdMQXgySnlDcE1oWk1qT3NLcjU2T3dFbUZnV3RsMmtMV0wxRks5R3NWVVpJS0wxN2tDdnZONDVoSVBubnR2Rl9qaXRYYmpsOU03dnlaMExGeGpvUWlOSlQ1Z0ExUHUzQ1gwb0dBVDJYVXFPT1ZQZWpha3NVZVZ4ZWRzOC11dHRJaExUeDB20gGyAUFVX3lxTE03VVRYcm5BMUhBWlF1WlZaWU44bklDdFRwbG1HSkM2RXAzTDNORDF5Z2o4d0VqeEZmWTQtRW1QdmMzVHFaMEdxbHJRYkhqalNnWmtKQ1NVOVA5bnNsSTlTaF94bWYwcmhieUFvTWNRU3plbXM2bW5iTXdJMzV0VHc5OWpjYWdrOWlVMXZQWG9tWU5WdHA1TkpKRHNsX0I1cWFZN0hRYjRrNnlZaUlZb1dVU1E?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Syria: Reconstruction Deals Lack Critical Rights Framework - Human Rights Watch",
+    "summary": "Syria: Reconstruction Deals Lack Critical Rights Framework Human Rights Watch",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjFNYkFSWmY2ai1Jc0lzR0RuNl9sTDFPSnRuNkY2RExiYklaOHlPVUNlWk1mSEJIanppSnJoMU9Md0MtSWRwaXFlSkswYm9MbGV3dVhCM190b1ZJbEk3UFB3S2l0MFF6UXcwcGNRSTk4Vm9jU3E5eWlXREIySzRlZU5XQ01PMXQ0RF8tLXd6UzVKTlE5MEFvbQ?oc=5",
+    "date": "2026-09-27",
+    "lang": "en"
+  },
+  {
+    "title": "The Limits of Sanctions Relief for Syria’s Reconstruction - Wilson Center",
+    "summary": "The Limits of Sanctions Relief for Syria’s Reconstruction Wilson Center",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenNLME9SUXUzUEp2eDBFWmFOQzZNVGFNUzBMNGdjeTZhdWhCd255d0RmeGpUN0xWOWdoLTM5b0Q1X1YtNjNJR3lwN0FPc2JNUFhaTXN6Vmg2OVdjM2dGT0xQOWdsSnI5NU9Oa0ZQSU8yX28wTUZsRXYzOVZGeTV2alVES0JlYjBNaHc?oc=5",
+    "date": "2026-09-30",
+    "lang": "en"
+  },
+  {
+    "title": "Syria, World Bank agree to establish multi-donor recovery and reconstruction fund - Arab News",
+    "summary": "Syria, World Bank agree to establish multi-donor recovery and reconstruction fund Arab News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2t5a0NMUHdlOUFaZVZUWEY3YWlyRFo2UFJHM1VRdGZ3akU3UXJZQWUtUzd5WDVIR2pheTdNZS11RHo1bkFUaTdyQXU4aVNjYkhleE11NVNjQWRWeE9wdHowRHpXWEd3aTJvRC1TSXJ6NEpVOEFFbS1lVmx4YzAxVTNWRmFPdlBWX195aC1QRDhxRE90a2h5bklaRTdsRHJmVzlyS2dJR0ZUWkRReU5vUHpYaEFEemNYT3lVZTlvOA?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections - UN News",
+    "summary": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections UN News",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdTl5Y3Z0ZktMb3VsS284M3dDNldMNzdtRlc5NTNEczkzbXJOdEFWTVdWQkJsRkpCWWI5bk12WHFkMFcyYmhnMkV0YjV0ekhweWp6eTNpMA?oc=5",
+    "date": "2026-10-12",
+    "lang": "en"
+  },
+  {
+    "title": "Lebanese minister: Syria is entering new phase of recovery and reconstruction - سانا",
+    "summary": "Lebanese minister: Syria is entering new phase of recovery and reconstruction سانا",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1INXdLb2gwcHdPejRHUEpNb19tYjFjM1dpNDBfQmtibTU4VXNUdkxJT1NXUE1lSzBaNmo0Um9Ya0xxTzl2TUxjcFNTYUN5SVdF?oc=5",
+    "date": "2026-10-23",
+    "lang": "en"
+  },
+  {
+    "title": "A Credit Strategy for Syria’s Reconstruction - Middle East Institute",
+    "summary": "A Credit Strategy for Syria’s Reconstruction Middle East Institute",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBMTNsZ3ZfNGNfRXpqdzhGb1dMdXhaR3l4cHhoTGM0SzYwSVNIaFJ2bkFVLTFUT2U0dE0yTjlmZ0tZVmJlTkxGbjhhelJXVmpZc2hGY19rXzg1TmNHWGhlc3U4b3RJTEpBbXNjYTE2V2ZpR0RyTzBZVDJJSTg?oc=5",
+    "date": "2026-08-13",
+    "lang": "en"
+  },
+  {
+    "title": "The Netherlands to contribute to reconstruction in Syria - Government.nl",
+    "summary": "The Netherlands to contribute to reconstruction in Syria Government.nl",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWNJNkZoOW9xUGN0ajN6eGlBdXY0M1FNamlON21xdnhRS1c0T2QzUS00akhfa0xFaXBOYTRTdFV1eGZTbWpPTUMwQjR3Q1dZVi1CVW1Ic1pvVV9BZkotSzlxTkJ1TXppVnhNcWhsYkJnak9kWHgwUnRWWWJSdGlIcDBoWkZTMWNQUTlsNE9sRUtSVUVQeTY4SkJ3OEd3Sk9oOTloVlYycEU?oc=5",
+    "date": "2026-10-14",
+    "lang": "en"
+  },
+  {
+    "title": "Syria’s reconstruction drive faces the bankability test - TheBanker.com",
+    "summary": "Syria’s reconstruction drive faces the bankability test TheBanker.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZGNrdy1tRW53SEl3cmM1VXhwa1hUY2tPZ3A1Ql9iVXo3aUNTY0hDY0dudnNrVFM4Y1lhWEwyQTB0VHRJaVRXOXplODRnYWpieEZkRXB4QUx5RWNYUWJNM0ZyYW1KbjVPWkoxa0l4TjN0WU1XOEVNNkFn?oc=5",
+    "date": "2026-09-29",
+    "lang": "en"
+  },
+  {
+    "title": "Syria, World Bank agree to establish reconstruction trust fund - IntelliNews",
+    "summary": "Syria, World Bank agree to establish reconstruction trust fund IntelliNews",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTNGTXI2MEZxdWU4LXFQc3hLZl9YbUVrdUxEM3VhOTJsMVNFZE1TNGhuc3BfcExuMkJKMDRBbmp2S1VKaXZQWW5xclNJdi1jTEtvQ2FBRnN5c2wxX0dyVnh0a0NsTks3bHpuWnFPSGN4QndQTG1BYzlJNEc5bkFTTkZhSVBkcnB3aHRWSVdydzI3Rzg4Mnp1UmlucXRaTkE1ZlNHTEpfZHVjSkdqWnhubEY4X3g3UzhGZnVuNGphZw?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+  },
+  {
+    "title": "Syria, World Bank Agree to Set Up Fund for Recovery and Reconstruction - ASHARQ AL-AWSAT English",
+    "summary": "Syria, World Bank Agree to Set Up Fund for Recovery and Reconstruction ASHARQ AL-AWSAT English",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT04yUl9XQUR1cXFWSTZaNUtFeS1SUk9XdV91eWJsZWlJS0ctbTZlN1ZqdUdhZWtWcHpSZERwUTMtMVFyYzlDd1QxNVpaRzJfcV9mQjVHckE5R2RuMm84dk91SGhwdVU0S29pSHYtaENRd0I2dUxSelFsQnhUTG5YSjFsei1CRlBXN0RMLWxkc3ZXS0d0X1pKbndaNHVYOWVaQXdqS0N3?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "The questions that Syria’s wealth fund has to answer - Arabian Gulf Business Insight | AGBI",
+    "summary": "The questions that Syria’s wealth fund has to answer Arabian Gulf Business Insight | AGBI",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3NyYi00UjFvamUzVkYxeDd6em8wbHB6bkl4WEdxRGVjdzZRUTJkdHZKMGtTRG9BaDItYnctaFB1MnVXUy15eWJLTkJlTloweG5nSWhmc2lXQUhHQ3dFa1lJMGVQeDdIYUNDeXM5MnhOa01qbnFUYmdPM1Y2SEh6S0VVbFYxZ3EyQUt1LXd5N3FkNEZod2xzT2dPdTJEYk8xeUNkaFY5RUdhd2pHbHh5ZHcxSmVzVDd5dXZoOXZ4S3RRS0Jr?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "OIC Secretary-General Discusses Reconstruction Efforts with Syrian Representative and Receives Invitation to Visit Syria - Organisation of Islamic Cooperation — OIC",
+    "summary": "OIC Secretary-General Discusses Reconstruction Efforts with Syrian Representative and Receives Invitation to Visit Syria Organisation of Islamic Cooperation — OIC",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zYlpyQzM3TUZkRXhvV1o2R2dvVDB3STFoQjlGdTdlNkQ2a1c0TzJ1R1lDTXBrbXJubXI0RW42MmlTNzNaNllOSjFyOG8?oc=5",
+    "date": "2026-10-14",
+    "lang": "en"
+  },
+  {
+    "title": "HRW calls for legal safeguards in Syria redevelopment effort - Jurist.org",
+    "summary": "HRW calls for legal safeguards in Syria redevelopment effort Jurist.org",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOVZnZXpoS3pHUWpadkpLVmdYbFdVZk5xWUNDTFpKYTh3UTV2UFNCbnY2RGVqMndqUFhRQmJyamRkeUs1dTJnSjZRcWpsU0p2NXVFYm5pSkF3Rm9aUVNxb2Y3M2VDcUhlTnBaWFVnVFRoRXdOTWh0aFN1VFN3TFJjLWt6dzJncUFGVVNaWkZoVXFhbFVTZHBSbFBSREdwdDRfYWNaSmdIai1BdWlUSjBub0lMUHc5ZlNOUTlVeGxOekNJYVpGNWN3MUF2cG95NVFneTFielMwNXY0UlFLclRVNEln?oc=5",
+    "date": "2026-09-29",
+    "lang": "en"
+  },
+  {
+    "title": "Syrian diplomat discusses investment cooperation with German official - سانا",
+    "summary": "Syrian diplomat discusses investment cooperation with German official سانا",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CT2hLRGFHS1Z4ZGNiNjBINmlyeTVuR0lBWTVxeVJ2cmhFU3Q3emFaUDhrcjF0MGlSSlBsdnB2cWJBVHVpUGprSmRIYS0?oc=5",
+    "date": "2026-10-23",
+    "lang": "en"
+  },
+  {
+    "title": "Syria: Opportunity Amid Regional Adversity - Middle East Institute",
+    "summary": "Syria: Opportunity Amid Regional Adversity Middle East Institute",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yYkozZTNGTU1icFlKNjhEYmFpTmZOMGlvSHd2U0FJZVdrZ2pucTBRM2dHTEtvUHMyU2dQSUs5bWhWNzZmLVlyX0FuYVNUM3REZVFvdGVvaTdjWkM2djZsbU15b2NHanpvcXRJeUVVcnhtb1JTT1YyblJ3?oc=5",
+    "date": "2026-09-28",
+    "lang": "en"
+  },
+  {
+    "title": "Syria, OIC humanitarian funds discuss cooperation on recovery and reconstruction - سانا",
+    "summary": "Syria, OIC humanitarian funds discuss cooperation on recovery and reconstruction سانا",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKeVRGOVVOUzh1b192X252Qm1vZU1aNTExbEtkb0ZDVkJoSWRPeWx5M0Z6Y0oxdXNuSlc0c1hlSkhKX1YyNFJvN0JuRnY?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Parliament to consider repealing law restricting sales and investment in border areas of Syria - کردپرس",
+    "summary": "Parliament to consider repealing law restricting sales and investment in border areas of Syria کردپرس",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOGx3ZHluNFFIQ3hxbV9pR1U5eEM5NjZnTGEyQjV0ODc5MWt2Z1RYSVpkaFRXZHZSY0k4R2NmXzc0ZFZwRzZ5SkhDYzUxcG02QXJ5QUtqaE9felhYS3B6WktyWl9YYVZwSVg0MG9YTjFkQ3djWXNidkF6WFcweGRkZ2NIOUtHWkFVdnhhMGpTOGVTenRzbW9YU2UtZmhOZ2hmbDFPcTg0MWhCb2R5Y3VGTWZZejdsb213Z0tNY1VNUmJvNXVBdzQ0Zjh1OV91TUc2aEJDM1lLYnA?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+  },
+  {
+    "title": "Syria and World Bank to set up recovery and rebuilding fund - The National",
+    "summary": "Syria and World Bank to set up recovery and rebuilding fund The National",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTNZWVNEY21IWk5wUzkxZ2lSUGltSTVZZkR2UzdiVVAxU1pkb3RaNkUtZGllcF9LT05KYTdKUm8zUzZLaWl6NEgyd19OdS1WNUNtZHF4WnRIYkRaenNRR0NtclhGRWJTNzBFeDlOTC1pNS1BdWRPbDBPYXBfdks1OVdxaDd2Z000ZVJKLUJDeHdRN0lfTmc?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Syria attends IRENA Council meeting for first time since joining agency - سانا",
+    "summary": "Syria attends IRENA Council meeting for first time since joining agency سانا",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MbktPb1lTeW5pZ2JtNk13MzJPaGNUaW5qUzR0N1dNZkVfc3pMZXd6TVRqekNyZEZvSHZRQ0tuSTdwY3ZvbzY4UnJob1Q?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+  },
+  {
+    "title": "Syria and World Bank to create recovery fund — The National - UA.NEWS",
+    "summary": "Syria and World Bank to create recovery fund — The National UA.NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUd0a1FUT3hjRjNJMUI5d0tlR1pSUlJyV3J5dFlDcEhKdTF5amxWOThOVTVwMjlneHp2WnFwWUtnVFhvMThJYVVqU2xfbV8zdy03M0QxTXdBQktub21MSGpFa3VsTGJJekNzSm5JblhPNk4zVEgxV1lNVHRLRjRGNUo2cVBacUo3QmdDYXY4SElOUQ?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+  },
+  {
+    "title": "Unlocking the Levant: Why the United States and Syria Must Pursue a Bilateral Trade and Investment Agreement - Middle East Institute",
+    "summary": "Unlocking the Levant: Why the United States and Syria Must Pursue a Bilateral Trade and Investment Agreement Middle East Institute",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1hHdFIwNy1nYnVGT3k3WFdmS0lHM3Eyck9ZNlhOdm93OW1ldXpoMl91Q3RCV1hnbDc2U2NYMm54WE9TUlY3SERQZEdQSmMyTnlGQTZPYklUMVJLcUNSVU9tbFBVcnJvcVNXNGpkMmQydFVkVmxzMkx3a29sQVl5Y3hSeUJFeDNqSlBaYWFxOVJiMmhOMWhhTm00S0hQREo4TnhmblVib0xObFBaNjdfMm40M0dSOTgtYUQ4ZlhwMEc4azk5LUNIVWdIWVFyTEQy?oc=5",
+    "date": "2026-09-24",
+    "lang": "en"
+  },
+  {
+    "title": "China-Syria trade rises by hundreds of millions of dollars as China launches industrial investments - The Jerusalem Post",
+    "summary": "China-Syria trade rises by hundreds of millions of dollars as China launches industrial investments The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c2l4MWlpc0VSYnpwN2xzYWNCVE9vRnVPamI1QkdCMGpJcVlhMWwwby00TkdvS29UeTh0NE5nd2Z5YlBDZ050UVlNSDQxWWxNdi0ya2dUWEJoQkQwYnZIMnRhNEdWMW41M3Q0Vw?oc=5",
+    "date": "2026-10-01",
+    "lang": "en"
+  },
+  {
+    "title": "What will access to US weapons mean for Syria’s military? - アラブニュース",
+    "summary": "What will access to US weapons mean for Syria’s military? アラブニュース",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2NWMUNGUF9Gc3dvaHdZa2oxT2FrR2hwQUs0TDdjTlExMk5adk1vZ0ZvQUtzTGFhYy1jSTJQTFgwQUlscHA1Zm9CRUdvaENuS1E5UlJDbGcyeWZCNlhPVWoxQ205WGM0NGxPQVh4SGF2STA3WUZCX1didVJSelQySWJudGZrWk5DTVpDamF4VEZyenlmRkp2YVRreGpWcHkxemlRRg?oc=5",
+    "date": "2026-10-03",
     "lang": "en"
   }
 ]
