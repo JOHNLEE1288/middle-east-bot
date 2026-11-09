@@ -17,6 +17,10 @@ def get_real_date(entry):
 # ==========================================
 FEEDS = [
     # 官方与叙利亚特定源
+    # 👇 新增了 SANA 的投资、经济、商业专属频道
+    {"url": "https://sana.sy/en/investment/feed/", "lang": "en"},
+    {"url": "https://sana.sy/en/economy/feed/", "lang": "en"},
+    {"url": "https://sana.sy/en/business/feed/", "lang": "en"},
     {"url": "https://sana.sy/en/?feed=rss2", "lang": "en"},
     {"url": "https://syriadirect.org/feed/", "lang": "en"},
     
