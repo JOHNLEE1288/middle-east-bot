@@ -13,11 +13,14 @@ def get_real_date(entry):
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 # ==========================================
-# 👇 全网最强新闻源矩阵
+# 👇 全网最强新闻源矩阵（新增北非阿尔及利亚源）
 # ==========================================
 FEEDS = [
+    # --- 🌟 新增：阿尔及利亚与北非专属商业源 ---
+    {"url": "https://news.google.com/rss/search?q=Algeria+investment+OR+economy+OR+infrastructure+OR+energy&hl=en-US&gl=US&ceid=US:en", "lang": "en"},
+    {"url": "https://news.google.com/rss/search?q=Algeria+OR+Algerian+OR+Algiers+business+OR+project+OR+tender&hl=en-US&gl=US&ceid=US:en", "lang": "en"},
+    
     # 官方与叙利亚特定源
-    # 👇 新增了 SANA 的投资、经济、商业专属频道
     {"url": "https://sana.sy/en/investment/feed/", "lang": "en"},
     {"url": "https://sana.sy/en/economy/feed/", "lang": "en"},
     {"url": "https://sana.sy/en/business/feed/", "lang": "en"},
@@ -73,9 +76,11 @@ FEEDS = [
 ]
 
 # ==========================================
-# 👇 终极全量词根库 (含中东专属政务、园区)
+# 👇 终极全量词根库 (含中东与北非专属词)
 # ==========================================
 BUSINESS_KEYWORDS = [
+    # 【0. 北非专属词】
+    "algeria", "algerian", "algiers", "north africa", "maghreb",
     # 【1. 中东超级项目与主权基金】
     "spark", "modon", "neom", "red sea", "qiddiya", "diriyah", "roshn", "mise", "giga", "riyadh air", "vision 2030", "saudi green initiative", "misa", "pif", "aramco", "sabic", "adnoc", "mubadala", "masdar", "nupco", "stc", "mobily", "zain", "salic", "maaden",
     # 【2. 中东政务、合规、税务与招投标平台专有词】
